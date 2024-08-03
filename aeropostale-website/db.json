@@ -1,0 +1,12 @@
+{
+  "products":[
+    {
+      "id":1,
+      "title":"Chicago Bulls Bomber Jacket",
+      "price":51.98,
+      "description":"The true all-star of your team gear, with authentic details right down to the classic Bulls graphics and faux leather sleeves.",
+      "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw06b3590f/67111061_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+      "category":"Jackets"
+    }
+  ]
+}
