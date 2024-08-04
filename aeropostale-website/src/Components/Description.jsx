@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
+import { BiHeart } from 'react-icons/bi'
 import { Link, useParams } from 'react-router-dom'
 
 const Description = () => {
@@ -20,6 +21,9 @@ const Description = () => {
         <h3>Price:- {price}</h3>
         <h4>{category}</h4>
         <p>{description}</p>
+        <button>
+          
+        </button>
         <button><Link to={"/addToCart"}>Add To Cart</Link></button>
       </div>
     </div>

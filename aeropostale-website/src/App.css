@@ -1,67 +1,78 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
     text-decoration: none;
 }
-.Navbar{
+
+.Navbar {
     width: 95%;
     height: 100px;
     margin: auto;
     color: #2e3133;
     display: flex;
     justify-content: space-between;
-    align-items: center; 
+    align-items: center;
 }
-.NavPagesMove,.NavIcons{
+
+.NavPagesMove,
+.NavIcons {
     width: 30%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.WebLogo{
+
+.WebLogo {
     width: 40%;
     display: flex;
     justify-content: center;
 }
-.SearchInput{
-    padding:5px 10px;
+
+.SearchInput {
+    padding: 5px 10px;
     font-size: 20px;
     border-radius: 30px;
     border: 2px solid #e0e0e0;
     outline: none;
 }
+
 .NavIcons span {
     position: relative;
 }
-.SearchIcon{
+
+.SearchIcon {
     position: absolute;
     font-size: 20px;
     right: 10%;
     top: 30%;
 }
-.UpdatesPromo{
+
+.UpdatesPromo {
     width: 90%;
     margin: 1% auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.UpdatePromoLiveBox{
+
+.UpdatePromoLiveBox {
     width: 28%;
     height: 100px;
     display: flex;
     justify-content: space-between;
-    padding:10px 20px;
+    padding: 10px 20px;
     align-items: center;
     background-color: #000;
     border-radius: 5px;
     color: #fff;
-    .UpdatePromoLinks{
+
+    .UpdatePromoLinks {
         background-color: #fff;
         border-radius: 20px;
         padding: 10px 0px;
-        a{
+
+        a {
             color: #000;
             padding: 0px 20px;
             font-size: 16px;
@@ -69,7 +80,9 @@
         }
     }
 }
-.yellowBanner,.BlueImages{
+
+.yellowBanner,
+.BlueImages {
     width: 100%;
     height: 200px;
     background-image: url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw3d439957/images/2024/Home/071024/A_SPOT_BG_DT-min.png');
@@ -80,13 +93,15 @@
     align-items: center;
     margin-top: 5%;
 }
-.AeroBtsDeals{
+
+.AeroBtsDeals {
     width: 50%;
     background-color: #fff;
     border-radius: 20px;
     padding: 10px 0px;
     height: 60px;
-    a{
+
+    a {
         color: #000;
         padding: 0px 20px;
         font-size: 25px;
@@ -94,17 +109,22 @@
         font-weight: 600;
     }
 }
-@media  (min-width: 320px) and (max-width:576px){
-    .UpdatesPromo{
-        overflow-x:scroll ;
+
+@media (min-width: 320px) and (max-width:576px) {
+    .UpdatesPromo {
+        overflow-x: scroll;
     }
-    .UpdatePromoLiveBox{
+
+    .UpdatePromoLiveBox {
         width: 100%;
         height: 150px;
         margin-left: 10px;
     }
 }
-.JeansShipping,.HelloKitty,.AEROFORALLBanner {
+
+.JeansShipping,
+.HelloKitty,
+.AEROFORALLBanner {
     width: 100%;
     height: 100vh;
     background-image: url("https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwa389fd2f/images/2024/Home/073124/B-POT%20DENIM%20BG%20DT.png");
@@ -114,74 +134,163 @@
     margin-top: 5%;
     position: relative;
 }
-.HelloKitty{
-    background-image:url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwbcda8db8/images/2024/Home/073124/C-SPOT%20HK%20BG%20DT-min.png');
+
+.HelloKitty {
+    background-image: url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwbcda8db8/images/2024/Home/073124/C-SPOT%20HK%20BG%20DT-min.png');
 }
-.AEROFORALLBanner{
-    background-image:url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw6f59b318/images/2024/Home/073124/D-SPOT%20AERO%20FOR%20ALL%20DT-min.png');
+
+.AEROFORALLBanner {
+    background-image: url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw6f59b318/images/2024/Home/073124/D-SPOT%20AERO%20FOR%20ALL%20DT-min.png');
 }
-.jeansShippingText{
+
+.jeansShippingText {
     width: 30%;
     position: absolute;
-    top:50% ;
+    top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
 }
-.helloKittyText{
+
+.helloKittyText {
     width: 70%;
     position: absolute;
-    top:80% ;
+    top: 80%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
 }
-.aeroforalltext{
+
+.aeroforalltext {
     width: 40%;
     position: absolute;
-    top:50% ;
-    left:  60%;
-    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
     color: white;
     text-align: center;
 }
-.aeroforimg{
+
+.aeroforimg {
     width: 100%;
 }
-.BlueImages{
+
+.BlueImages {
     background-image: url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwfd8319c9/images/2024/Home/071024/D_SPOT_SHORTS_BG_DT-min.png');
 }
+
 footer {
     background-color: #f9f9f9;
-  }
-  
-  footer h6 {
+}
+
+footer h6 {
     font-size: 16px;
     margin-bottom: 10px;
     color: #333;
-  }
-  
-  footer p {
+}
+
+footer p {
     margin-bottom: 5px;
-  }
-  
-  footer .social-icons {
+}
+
+footer .social-icons {
     display: flex;
     gap: 10px;
-  }
-  
-  footer a {
+}
+
+footer a {
     color: inherit;
     text-decoration: none;
-  }
-  
-  footer a:hover {
+}
+
+footer a:hover {
     text-decoration: underline;
-  }
-  
-  @media (max-width: 768px) {
+}
+
+@media (max-width: 768px) {
     footer {
-      text-align: center;
+        text-align: center;
     }
+
     .social-icons {
-      justify-content: center;
+        justify-content: center;
     }
-  }
+}
+
+.LoginForm{
+    width: 30%;
+    transform:translate(-50%,-50%);
+    position: absolute;
+    top: 65%;
+    left:50%;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    h2,h4{
+        text-align: center;
+    }
+    input{
+        width: 90%;
+        margin:15px auto;
+        display: block;
+        padding: 10px  ;
+        outline: none;
+        border: none;
+        border-bottom: 1px solid grey;
+    }
+    p{
+        padding: 10px;
+        padding-bottom: 0;
+    }
+    .checkBox{
+        width: 20px;
+        display: inline;
+    }
+    .SelectOption{
+        width: 90%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        select{
+            width: 45%;
+            padding: 10px 20px;
+            outline: none;
+            border: none;
+            border-bottom: 1px solid grey;
+        }   
+    }
+    .SubmitBtn,.btnLogout{
+        width: 45%;
+        display: block;
+        margin:10px auto;
+        padding:6px 10px;
+        font-size: 20px;
+        border: none;
+        outline: none;
+        border-radius: 20px;
+        font-weight: 500;
+        color: white;
+        background-color: #17274A;
+    }
+    .btnLogout{
+        background-color: red;
+    }
+}
+.toggleBtnDiv{
+    width: 98%;
+   border: none;
+   outline: none;
+    .toggleBtn{
+        width: 20%;
+        margin: auto;
+        display: block;
+        border: none;
+   outline: none;
+   background-color: white;
+    }
+}
+.btnSignUp{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+  

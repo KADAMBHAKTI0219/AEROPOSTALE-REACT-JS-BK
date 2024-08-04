@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
-import NavSlider from './NavSlider'
 import { NavLink } from 'react-router-dom'
-import { BiBaguette, BiCart, BiCurrentLocation, BiHeart, BiLocationPlus, BiMenu, BiSearch, BiSolidLocationPlus, BiUser } from 'react-icons/bi'
+import { BiHeart, BiLocationPlus, BiMenu, BiSearch, BiUser } from 'react-icons/bi'
 import { HiOutlineShoppingBag } from 'react-icons/hi'
 
 const Navigation = () => {
@@ -36,7 +35,7 @@ const Navigation = () => {
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiLocationPlus/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/login"}> <BiUser/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <HiOutlineShoppingBag /> </NavLink>
-        <button style={{...NavLinkStyle,fontSize:"1.5rem",border:"none",backgroundColor:"#fff"}} onClick={()=>setMenuButton(false)}> <BiMenu/> </button>
+        <button style={{...NavLinkStyle,fontSize:"1.5rem",border:"none",backgroundColor:"#fff"}} onClick={()=>setMenuButton(!menuButton)} className=''> <BiMenu/> </button>
       </div>
       </div>
     <hr />

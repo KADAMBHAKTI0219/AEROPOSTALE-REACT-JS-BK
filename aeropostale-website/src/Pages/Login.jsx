@@ -61,16 +61,16 @@ const Login = () => {
 
   return (
     <div>
-      {<button onClick={()=>setFormToggle(!formToggle)}>{formToggle ?  <IoCreate /> : <RiLoginCircleFill/> }</button> } <button onClick={Signoutfunc}><BiLogOut/>Logout</button>
+      <div className='toggleBtnDiv'>{<button onClick={()=>setFormToggle(!formToggle)} className='toggleBtn'>{formToggle ? <h4> <IoCreate />SignUp</h4> : <h4><RiLoginCircleFill/>SignIn</h4> }</button> } </div>
       {
         formToggle ?
         (
-          <form action="">
-            <h2>Create Account</h2>
-          <input type="text" placeholder='First Name' name='firstName' value={firstName} onChange={(e)=>getFormDataEachValue(e)}/><br />
-          <input type="text" placeholder='Last Name' name='lastName' value={lastName} onChange={(e)=>getFormDataEachValue(e)}/><br />
-          <input type="text" placeholder='Phone' name='phone' value={phone} onChange={(e)=>getFormDataEachValue(e)}/><br />
-          <select name="selectMonth" id="month" value={selectMonth} onChange={(e)=>getFormDataEachValue(e)}>
+          <form action="" className='LoginForm'>
+          <input type="text" placeholder='First Name' name='firstName' value={firstName} onChange={(e)=>getFormDataEachValue(e)}/>
+          <input type="text" placeholder='Last Name' name='lastName' value={lastName} onChange={(e)=>getFormDataEachValue(e)}/>
+          <input type="text" placeholder='Phone' name='phone' value={phone} onChange={(e)=>getFormDataEachValue(e)}/>
+          <div className='SelectOption'>
+            <select name="selectMonth" id="month" value={selectMonth} onChange={(e)=>getFormDataEachValue(e)}>
             <option value="Month">Month</option>
             <option value="January">January</option>
             <option value="February">February</option>
@@ -118,25 +118,27 @@ const Login = () => {
             <option value="29">29</option>
             <option value="30">30</option>
             <option value="31">31</option>
-          </select>
-          <input type="email"  placeholder='Email Address' name='email' value={email} onChange={(e)=>getFormDataEachValue(e)}/> <br />
-          <input type="password"  placeholder='Password' name='password' value={password} onChange={(e)=>getFormDataEachValue(e)}/> <br />
-          <input type="checkbox" />
-          <p>Sign Up for Emails
-          By signing up, you agree to receive emails from Aeropostale about sales, promotions, events, new arrivals, and more. View Terms and Privacy.</p>
-        <button onClick={(e)=>signUpformSubmit(e)}>Apply</button>
+          </select></div>
+          <input type="email"  placeholder='Email Address' name='email' value={email} onChange={(e)=>getFormDataEachValue(e)}/> 
+          <input type="password"  placeholder='Password' name='password' value={password} onChange={(e)=>getFormDataEachValue(e)}/> 
+          <p><input type="checkbox" className='checkBox'/>Sign Up for Emails By signing up, you agree to receive emails from Aeropostale about sales, promotions, events, new arrivals, and more. View Terms and Privacy.</p>
+       <button onClick={(e)=>signUpformSubmit(e)} className='SubmitBtn'>Apply</button>
+      
         </form>)
   :
-        (<form action="">
+        (<form action="" className='LoginForm'>
           <h2>Sign In</h2>
           <input type="email" placeholder='Enter Your Email' name='email' value={email}  onChange={(e)=>getFormDataEachValue(e)}/>
           <input type="password" placeholder='Enter Your Password'  name='password' value={password}  onChange={(e)=>getFormDataEachValue(e)}/>
-          <button onClick={(e)=>signInFormSubmit(e)}>Sign In </button>
+          <div className='btnSignUp'>  <button onClick={(e)=>signInFormSubmit(e)} className='SubmitBtn'>Sign In </button>
+          <button onClick={Signoutfunc} className='btnLogout'><BiLogOut/>Logout</button> </div>
+          <h4>Or</h4>
+          <GoogleButton onClick={signInWithGoogleBtn} style={{display:"block",margin:"auto",borderRadius:"5px"}}/>
         </form>)
       }
 
 
-      <GoogleButton onClick={signInWithGoogleBtn}/>
+     
       
     </div>
   )
