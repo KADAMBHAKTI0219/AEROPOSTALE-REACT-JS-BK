@@ -58,7 +58,7 @@
 
 .UpdatePromoLiveBox {
     width: 28%;
-    height: 100px;
+    height: 120px;
     display: flex;
     justify-content: space-between;
     padding: 10px 20px;
@@ -110,7 +110,7 @@
     }
 }
 
-@media (min-width: 320px) and (max-width:576px) {
+@media (min-width: 320px) and (max-width:992px) {
     .UpdatesPromo {
         overflow-x: scroll;
     }
@@ -119,6 +119,18 @@
         width: 100%;
         height: 150px;
         margin-left: 10px;
+    }
+    .FormsLoginBtn{
+        width: 500px;
+    }
+    .LoginForm{
+    width:100%;
+    position: absolute;
+    top: 200%;
+    left:50%;
+    }
+    input{
+        width: 100%;
     }
 }
 
@@ -213,13 +225,16 @@ footer a:hover {
     .social-icons {
         justify-content: center;
     }
+    .LoginForm{
+        width: 100%;
+    }
 }
 
 .LoginForm{
-    width: 30%;
+    width: 100%;
     transform:translate(-50%,-50%);
     position: absolute;
-    top: 65%;
+    top: 90%;
     left:50%;
     padding: 10px 20px;
     border-radius: 20px;
@@ -294,3 +309,27 @@ footer a:hover {
     justify-content: space-between;
 }
   
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+    /* Your styles for laptops */
+
+    .LoginForm{
+        width: 50%;
+    }
+  }
+  @media only screen and (min-width: 1441px) {
+    /* Your styles for desktops */
+    .LoginForm{
+        width: 30%;
+        position: absolute;
+    top: 65%;
+    left:50%;
+    }
+  }
+  @media only screen and (min-width: 1500px) {
+    /* Your styles for desktops */
+    .LoginForm{
+        width: 30%;
+        position: absolute;
+    left:50%;
+    }
+  }

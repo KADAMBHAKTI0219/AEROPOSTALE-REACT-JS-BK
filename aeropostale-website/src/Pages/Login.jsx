@@ -60,12 +60,12 @@ const Login = () => {
     }
 
   return (
-    <div>
+    <div >
       <div className='toggleBtnDiv'>{<button onClick={()=>setFormToggle(!formToggle)} className='toggleBtn'>{formToggle ? <h4> <IoCreate />SignUp</h4> : <h4><RiLoginCircleFill/>SignIn</h4> }</button> } </div>
       {
         formToggle ?
         (
-          <form action="" className='LoginForm'>
+          <div className='FormsLoginBtn'> <form action="" className='LoginForm'>
           <input type="text" placeholder='First Name' name='firstName' value={firstName} onChange={(e)=>getFormDataEachValue(e)}/>
           <input type="text" placeholder='Last Name' name='lastName' value={lastName} onChange={(e)=>getFormDataEachValue(e)}/>
           <input type="text" placeholder='Phone' name='phone' value={phone} onChange={(e)=>getFormDataEachValue(e)}/>
@@ -124,9 +124,10 @@ const Login = () => {
           <p><input type="checkbox" className='checkBox'/>Sign Up for Emails By signing up, you agree to receive emails from Aeropostale about sales, promotions, events, new arrivals, and more. View Terms and Privacy.</p>
        <button onClick={(e)=>signUpformSubmit(e)} className='SubmitBtn'>Apply</button>
       
-        </form>)
+        </form></div>
+         )
   :
-        (<form action="" className='LoginForm'>
+        ( <div className='FormsLoginBtn'> <form action="" className='LoginForm'>
           <h2>Sign In</h2>
           <input type="email" placeholder='Enter Your Email' name='email' value={email}  onChange={(e)=>getFormDataEachValue(e)}/>
           <input type="password" placeholder='Enter Your Password'  name='password' value={password}  onChange={(e)=>getFormDataEachValue(e)}/>
@@ -134,11 +135,8 @@ const Login = () => {
           <button onClick={Signoutfunc} className='btnLogout'><BiLogOut/>Logout</button> </div>
           <h4>Or</h4>
           <GoogleButton onClick={signInWithGoogleBtn} style={{display:"block",margin:"auto",borderRadius:"5px"}}/>
-        </form>)
+        </form> </div>)
       }
-
-
-     
       
     </div>
   )

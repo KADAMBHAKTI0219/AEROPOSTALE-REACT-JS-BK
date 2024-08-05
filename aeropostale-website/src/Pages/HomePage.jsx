@@ -40,15 +40,14 @@ const HomePage = () => {
 
         {/* Yellow Banner */}
         <div className='yellowBanner w-100'>
-          <div className="row d-flex justify-content-between">
+          <div className="row d-flex justify-content-between w-100">
           <div className='col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 col-xxl-8'>
-            <img src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw956e2e28/images/2024/Home/071024/A_SPOT_BTS%20DEALS_DT.png" alt="" className='img-fluid'/>
-          </div>
-          <div  className='col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-xxl-4 '>
-             <div className='AeroBtsDeals '> <a href="">Women</a>
-             <a href="">Men</a></div>
-          </div>
-          </div>
+            <img src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw956e2e28/images/2024/Home/071024/A_SPOT_BTS%20DEALS_DT.png" alt="" className='img-fluid w-75'/>   </div>
+        <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+        <div className='AeroBtsDeals'> <a href="">Women</a>
+        <a href="">Men</a></div>
+        </div>
+      </div>
         </div>
 
         {/* Jeans Shipping */}

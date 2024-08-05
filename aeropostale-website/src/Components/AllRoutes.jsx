@@ -4,7 +4,8 @@ import HomePage from '../Pages/HomePage'
 import AeroProducts from './AeroProducts'
 import Description from './Description'
 import Login from '../Pages/Login'
-import AddToCart from './AddToCart'
+import { Card } from 'react-bootstrap'
+import CartPage from './CartPage'
 
 const AllRoutes = () => {
   return (
@@ -12,7 +13,8 @@ const AllRoutes = () => {
         <Route path="/" element={<HomePage />} />
         <Route path="/aeroProducts" element={<AeroProducts />} />
         <Route path="/description/:id" element={<Description />} />
-        <Route path="/addToCart/:id" element={<AddToCart />} />
+        <Route path="/card/:id" element={<Card />} />
+        <Route path="/cartPage" element={<CartPage />} />
         <Route path="/login" element={<Login />} />
     </Routes>
   )

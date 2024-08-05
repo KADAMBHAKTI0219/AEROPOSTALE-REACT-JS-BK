@@ -1,33 +1,37 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import { BiHeart } from 'react-icons/bi'
 import { Link, useParams } from 'react-router-dom'
-
+import Card from './Card'
 const Description = () => {
-  const {id} =useParams()
-  const [singleProductData,setSingleProductData] = useState([])
-  const getSingleProductData = (id)=>{
-      axios.get(`http://localhost:3000/products/${id}`).then((res)=>setSingleProductData(res.data)).catch(err=>console.log(err))
-  }
-  const {title,price,image,description,category}=singleProductData
-  useEffect(()=>{
-    getSingleProductData(id)
-  },[])
+  const [products, setProducts] = useState([]);
+  const {id} = useParams()
+  
+  
+
+  useEffect(() => {
+    axios.get(`http://localhost:3000/products/${id}`)
+      .then(response => {
+        setProducts(response.data);
+        console.log(response.data)
+      })
+      .catch(error => {
+        console.error('There was an error fetching the products!', error);
+      });
+  }, []);
+  const productArray = Array.isArray(products) ? products : [];
+  console.log('Products:', products);
+  console.log(productArray)
   return (
-    <div>
-      <div>
-        <h1>{title}</h1>
-        <img src={image} alt="" />
-        <h3>Price:- {price}</h3>
-        <h4>{category}</h4>
-        <p>{description}</p>
-        <button>
+    <div className="product-list">
+        <div key={products.id}>
+          <h1>{products.id}</h1>
           
-        </button>
-        <button><Link to={"/addToCart"}>Add To Cart</Link></button>
-      </div>
+        <Card key={products.id} products={products} />
+        </div>
+
+      
     </div>
-  )
+  );
 }
 
 export default Description
