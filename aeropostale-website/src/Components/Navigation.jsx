@@ -1,18 +1,20 @@
 import React, { useContext, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { BiHeart, BiLocationPlus, BiMenu, BiSearch, BiUser } from 'react-icons/bi'
-import { HiOutlineShoppingBag } from 'react-icons/hi'
 import { Button, Offcanvas } from 'react-bootstrap'
 import { CartContext } from '../Context/CartContext'
+import { IoBagOutline } from 'react-icons/io5'
+import { SearchContext } from '../Context/Search'
 
 const Navigation = () => {
-
+  // OffCanvas
   const [show, setShow] = useState(false);
-
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-  const {count} = useContext(CartContext)
 
+  
+  const {count} = useContext(CartContext)
+  const { search ,setSearch} = useContext(SearchContext)
   const NavLinkStyle ={
     textDecoration: 'none',
     color: '#2e3133',
@@ -44,27 +46,33 @@ const Navigation = () => {
         <NavLink style={{...NavLinkStyle}}  >Clearance</NavLink>
       </div>
 
-      <div className='WebLogo'>
+      <div className='WebLogo position-absolute' >
         <NavLink to={"/"}><img src="https://1000logos.net/wp-content/uploads/2022/07/Aeropostale-logo.png" alt="" height={120} width={250}/></NavLink>
       </div>
 
       <div className='NavIcons'>
-        <span><input type="text" placeholder='Search' className='SearchInput' /><BiSearch className='SearchIcon'/> </span>
-        <span>{count}</span>
-        <NavLink style={{...NavLinkStyle,fontSize:"1.5rem"}} to={'/wishList'}> <BiHeart/> </NavLink>
-        <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiLocationPlus/> </NavLink>
-        <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/login"}> <BiUser/> </NavLink>
-        <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/cartPage"}> <HiOutlineShoppingBag /> </NavLink>
+      <span><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>setSearch(e.target.value)} /><BiSearch className='SearchIcon'/> </span>
+        <NavLink style={{...NavLinkStyle,fontSize:"1.8rem"}} to={'/wishList'}> <BiHeart/> </NavLink>
+        <NavLink  style={{...NavLinkStyle,fontSize:"1.8rem"}}> <BiLocationPlus/> </NavLink>
+        <NavLink  style={{...NavLinkStyle,fontSize:"1.8rem"}} to={"/login"}> <BiUser/> </NavLink>
+       <div>
+        <NavLink style={{...NavLinkStyle,fontSize:"1.8rem",position:"relative"}} to={"/cartPage"}> <IoBagOutline />
+        <span className='counter position-relative' style={{right:"50%",fontSize:"16px"}} >{count}</span> </NavLink>
+       </div>
         </div>
       </div>
 
 
-     <div className="d-flex d-sm-flex d-md-flex d-lg-flex d-xl-none d-xxl-none justify-content-around justify-context-sm-around justify-context-md-around justify-context-lg-none justify-context-xl-none justify-context-xxl-none">
-     <NavLink to={"/"}><img src="https://1000logos.net/wp-content/uploads/2022/07/Aeropostale-logo.png" alt="" height={120} width={250}/></NavLink>
-      <Button onClick={handleShow} style={{fontSize:"26px"}} variant='none'>
+     <div className="d-flex d-sm-flex d-md-flex d-lg-flex d-xl-none d-xxl-none justify-content-around justify-context-sm-between justify-context-md-around justify-context-lg-none justify-context-xl-none justify-context-xxl-none">
+        <NavLink to={"/"}><img src="https://1000logos.net/wp-content/uploads/2022/07/Aeropostale-logo.png" alt="" height={120} width={250}/></NavLink>
+        
+        <Button onClick={handleShow} style={{fontSize:"26px"}} variant='none'>
         <BiMenu/>
-      </Button>
-     </div>
+        </Button>
+    </div>
+    <span className='d-block d-sm-block d-md-block d-lg-none d-xl-none d-xxl-none'><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>setSearch(e.target.value)} /><BiSearch className='SearchIcon'/> </span>
+    
+
     <hr />
     <Offcanvas show={show} onHide={handleClose} placement='end' >
         <Offcanvas.Header closeButton>
@@ -84,7 +92,8 @@ const Navigation = () => {
         <NavLink style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiHeart/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiLocationPlus/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/login"}> <BiUser/> </NavLink>
-        <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <HiOutlineShoppingBag /> </NavLink>
+        <NavLink style={{...NavLinkStyle,fontSize:"1.8rem",position:"relative"}} to={"/cartPage"}> <IoBagOutline />
+        <span className='counter position-relative' style={{right:"5%",fontSize:"16px"}} >{count}</span> </NavLink>
         </div>
         </Offcanvas.Body>
     </Offcanvas>

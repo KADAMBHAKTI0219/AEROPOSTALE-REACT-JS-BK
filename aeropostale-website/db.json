@@ -3,191 +3,173 @@
      
       {
         "id": 1,
-        "title": "Pink Bow Oversized Pullover Hoodie",
-        "price": 29.98,
+        "title": "Essentials Cargo Sweatpants",
+        "price": 35.00,
   
-        "category": "Tops",
+        "category": "UNISEX",
         "colors": [
           {
-            "color": "red",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw875151fc/80644473_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw763a54e4/80644473_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5f0d5617/80644473_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw69db6bf5/80644473_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "black",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw027302c8/69614872_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw43379a73/69614872_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5c364c61/69614872_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1078c015/69614872_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "dream chocolate",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd3d492d7/80644473_208_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd8770cc1/80644473_208_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd9d0a4c8/80644473_208_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa05b33ed/80644473_208_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#656a6e",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaf99bf1b/69614872_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe402ede3/69614872_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3807407e/69614872_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0b2f816c/69614872_053_alt4.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "blue haze",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2051be97/80644473_442_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf9c0e103/80644473_442_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw235c9077/80644473_442_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe45e1c5b/80644473_442_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-          },
-          {
-            "color": "fresh lavender",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw721ec7ee/80644473_526_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb5498ce7/80644473_526_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe263a11a/80644473_526_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw751aed24/80644473_526_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-          },
-          {
-            "color": "pointsettia",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaf1f8b1e/80644473_619_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa180f9cc/80644473_619_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2e1dc5e2/80644473_619_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw36164a9b/80644473_619_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#D0B8A8",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw87e908ec/69614872_201_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfc2a3194/69614872_201_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc7ef3eec/69614872_201_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1a7f60c9/69614872_201_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           }
+          
+        
         ],
-        "description": "Wrap yourself up in the supreme coziness of this oversized fleece hoodie.",
+        "description": "Made from soft fleece in a seriously chill silhouette, these are the comfy cargos everyone needs. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
         "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
       },
       {
         "id": 2,
-        "title": "Seriously Soft Sculpt Square-Neck Tee",
-        "price": 17.48,
+        "title": "Essentials Washed Cargo Joggers",
+        "price": 32.00,
   
-        "category": "Tops",
+        "category": "UNISEX",
         "colors": [
           {
-            "color": "cream",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf37b7c45/80644378_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e536421/80644378_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb07fb1b7/80644378_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw49e8558c/80644378_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#3E3232",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7824a4d8/69613543_027_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa32a59a9/69613543_027_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf66b24b9/69613543_027_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw08dff580/69613543_027_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "chocolate malt ",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwba088bce/80644378_232_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb1367f1c/80644378_232_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw48ce4298/80644378_232_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwacdb4ab0/80644378_232_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "black",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc8ecfe71/69613543_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8aa14dd4/69613543_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb7399fba/69613543_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfd454bd3/69613543_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "black fox",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw05811ec8/80644378_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcc5a0335/80644378_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw754a3a2e/80644378_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwca8a54db/80644378_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#F1F1F1",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw78ccd728/69613543_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5685ea5e/69613543_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdf779e67/69613543_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe0e4052a/69613543_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "mint glow",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe60481f4/80644378_338_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6cdab09c/80644378_338_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaf0a4991/80644378_338_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3896f331/80644378_338_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-          },
-          {
-            "color": "copper brown",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9bc99a45/80644378_202_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwff0630df/80644378_202_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb3a54695/80644378_202_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe70e850a/80644378_202_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#00215E",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw751f49e7/69613543_402_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcecd7376/69613543_402_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6ba59981/69613543_402_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb33a7ebe/69613543_402_alt4.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           }
         ],
-        "description": "Wrap yourself up in the supreme coziness of this oversized fleece hoodie.",
+        "description": "The comfiest combo: this sporty jogger style decked out with classic cargo pockets.",
         "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
       },
       {
-        "id": 3,
-        "title": "A87 Piqué Polo",
-        "price":12.00,
+        "id":3,
+        "title": "Essentials Solid Fleece Shorts 6",
+        "price":15.00,
   
-        "category": "Tops",
+        "category": "UNISEX",
         "colors": [
           {
-            "color": "bleach",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa1622d8e/80174169_102_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe899090f/80174169_102_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8532ed31/80174169_102_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf3f09122/80174169_102_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#F6F5F2",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2ccfd5c2/68133987_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwad90510b/68133987_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9876aebf/68133987_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw99e6ab05/68133987_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "med hthr grey",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw01e24774/80174163_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9e99426c/80174163_053_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw912664e9/80174163_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwee477c72/80174163_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "black",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4fca04a/68133987_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw561ad81b/68133987_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf8547a1e/68133987_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwee871f79/68133987_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "black fox ",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw925f6af8/80174163_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw26a927c7/80174163_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfadf74dd/80174163_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6ef97801/80174163_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#DBA979",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbd04ffe5/68133987_209_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw464f4b1c/68133987_209_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw10514d86/68133987_209_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw445b344b/68133987_209_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "blue",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw406b79f9/80171788_444_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa295f068/80171788_444_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw15520fcc/80171788_444_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa3c57eb1/80171788_444_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#F4F27E",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc554ba43/68133987_305_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw33155365/68133987_305_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd7587c76/68133987_305_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4e00cc05/68133987_305_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "copper brown",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw30e1b13d/80171788_585_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw30e1b13d/80171788_585_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcaf8cccd/80171788_585_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw668a616e/80171788_585_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#102C57",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcec26f46/68133987_402_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbeb9659e/68133987_402_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw64fddac6/68133987_402_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0d91fb19/68133987_402_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           }
         ],
-        "description": "Wrap yourself up in the supreme coziness of this oversized fleece hoodie.",
+        "description": "The best part of your everyday lounge uniform: these super-comfy fleece shorts.",
         "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
       },
       {
-        "id": 4,
-        "title": "Uniform Piqué Polo",
-        "price":12.00,
+        "id":4,
+        "title": "NBA Team Logos Pullover Hoodie",
+        "price":30.00,
   
-        "category": "Tops",
+        "category": "UNISEX",
         "colors": [
           {
-            "color": "bleach",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf9181a3d/83025243_102_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb8518a80/83025243_102_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbe83de1d/83025243_102_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4060e9be/83025243_102_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "black",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw26842ff6/60211277_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdebf116d/60211277_001_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbac1f7cc/60211277_001_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe1af7b15/60211277_001_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "honorable blue",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw14faae1d/83025243_418_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw44eef204/83025243_418_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw35e1eb29/83025243_418_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf2fe1b8e/83025243_418_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#FEFAF6",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwad84c96c/60211476_111_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1874a639/60211476_111_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2fe7ad77/60211476_111_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw12db257e/60211476_111_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           },
           {
-            "color": "crimson rose ",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw612bf4f5/83025243_684_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8b1bdb8d/83025243_684_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw87ca2d5d/83025243_684_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2e709ec1/83025243_684_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-          },
-          {
-            "color": "black fox",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw14cf6acb/83025243_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc7ddc4f3/83025243_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw454e8333/83025243_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw76b8f827/83025243_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-          },
-          {
-            "color": "classic red",
-            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1a020115/83025243_692_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4ad58f0/83025243_692_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe836693b/83025243_692_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw208b18f6/83025243_692_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+            "color": "#EEEEEE",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw476c0064/60211235_035_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb5a8e052/60211235_035_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdc32a4c7/60211235_035_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7b9aec2c/60211235_035_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
           }
         ],
-        "description": "Wrap yourself up in the supreme coziness of this oversized fleece hoodie.",
+        "description": "The cozy hoodie you wear when you're the NBA's biggest fan. Grab our fleece shorts to match!",
+        "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
+      },
+      {
+        "id":5,
+        "title": "Milwaukee Bucks Top",
+        "price":32.00,
+  
+        "category": "UNISEX",
+        "colors": [
+          {
+            "color": "#114232",
+            "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9bfd55c2/60171260_300_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd72842b6/60171260_300_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw00cf5c2f/60171260_300_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw952b62bb/60171260_300_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+          }
+        ],
+        "description": "The cozy hoodie you wear when you're the NBA's biggest fan. Grab our fleece shorts to match!",
         "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
       }
-    ],
-    "WishList":[
-      
     ]
            
   }

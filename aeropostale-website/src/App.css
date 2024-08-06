@@ -24,7 +24,7 @@
 }
 
 .WebLogo {
-    width: 40%;
+    width: 90%;
     display: flex;
     justify-content: center;
 }
@@ -44,7 +44,7 @@
 .SearchIcon {
     position: absolute;
     font-size: 20px;
-    right: 10%;
+    right: 15%;
     top: 30%;
 }
 
@@ -110,28 +110,13 @@
     }
 }
 
-@media (min-width: 320px) and (max-width:992px) {
-    .UpdatesPromo {
-        overflow-x: scroll;
-    }
-
-    .UpdatePromoLiveBox {
-        width: 100%;
-        height: 150px;
-        margin-left: 10px;
-    }
-    .FormsLoginBtn{
-        width: 500px;
-    }
-    .LoginForm{
-    width:100%;
-    position: absolute;
-    top: 200%;
-    left:50%;
-    }
-    input{
-        width: 100%;
-    }
+.productsContentMain{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.productsContent{
+  padding: 10px;
+  margin: 20px;
 }
 
 .JeansShipping,
@@ -217,19 +202,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-@media (max-width: 768px) {
-    footer {
-        text-align: center;
-    }
-
-    .social-icons {
-        justify-content: center;
-    }
-    .LoginForm{
-        width: 100%;
-    }
-}
-
 .LoginForm{
     width: 100%;
     transform:translate(-50%,-50%);
@@ -308,28 +280,175 @@ footer a:hover {
     display: flex;
     justify-content: space-between;
 }
+.productsContentMain{
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.loading {
+    font-size: 84px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    span {
+        display: inline-block;
+        margin: 0 -.05em;
+      }
+  }
+ 
   
-@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+.loading05 {
+    perspective: 1000px;
+  }
+  
+  .loading05 span {
+    transform-origin: 50% 50% -25px;
+    transform-style: preserve-3d;
+    animation: loading05 1.7s infinite;
+  }
+  
+  .loading05 span:nth-child(2) {
+    animation-delay: 0.1s;
+  }
+  
+  .loading05 span:nth-child(3) {
+    animation-delay: 0.2s;
+  }
+  
+  .loading05 span:nth-child(4) {
+    animation-delay: 0.3s;
+  }
+  
+  .loading05 span:nth-child(5) {
+    animation-delay: 0.4s;
+  }
+  
+  .loading05 span:nth-child(6) {
+    animation-delay: 0.5s;
+  }
+  .loading05 span:nth-child(7) {
+    animation-delay: 0.6s;
+  }
+  .loading05 span:nth-child(8) {
+    animation-delay: 0.7s;
+  }
+  .loading05 span:nth-child(9) {
+    animation-delay: 0.8s;
+  }
+  .loading05 span:nth-child(10) {
+    animation-delay: 0.9s;
+  }
+  .loading05 span:nth-child(11) {
+    animation-delay: 10s;
+  }
+
+  @keyframes loading05 {
+    0% {
+      transform: rotateX(-360deg);
+    }
+    70% {
+      transform: rotateX(0);
+    }
+  }
+  
+  strong{
+    display: block;
+  }
+  
+
+  
+
+  
+@media (min-width: 320px) and (max-width:768px) {
+    .UpdatesPromo {
+        overflow-x: scroll;
+    }
+
+    .UpdatePromoLiveBox {
+        width: 100%;
+        height: 150px;
+        margin-left: 10px;
+    }
+    .productsContentMain{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .LoginForm{
+        width: 100%;
+    }
+    span{
+        position: relative;
+    }
+    .SearchInput{
+       width: 85%;
+       display: block;
+       margin: auto;
+       position: relative;
+    }
+}
+@media (min-width: 767px) and (max-width:992px) {
+    .UpdatesPromo {
+        overflow-x: scroll;
+    }
+
+    .UpdatePromoLiveBox {
+        width: 100%;
+        height: 150px;
+        margin-left: 10px;
+    }
+    footer {
+        text-align: center;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+    .LoginForm{
+        width: 70%;
+    }
+    .productsContentMain{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    span{
+        position: relative;
+    }
+    .SearchInput{
+       width: 85%;
+       display: block;
+       margin: auto;
+       position: relative;
+    }
+}
+  
+
+@media only screen and (min-width: 993px) and (max-width: 1400px) {
     /* Your styles for laptops */
 
     .LoginForm{
         width: 50%;
+        position: absolute;
+        top: 90%;
+        left:50%;
+    }
+    span{
+        position: relative;
+    }
+    .SearchInput{
+       width: 80%;
+       display: block;
+       margin: auto;
+       position: relative;
     }
   }
-  @media only screen and (min-width: 1441px) {
+
+  @media only screen and (min-width: 1400px) and (max-width:1920px){
     /* Your styles for desktops */
     .LoginForm{
         width: 30%;
         position: absolute;
-    top: 65%;
-    left:50%;
-    }
-  }
-  @media only screen and (min-width: 1500px) {
-    /* Your styles for desktops */
-    .LoginForm{
-        width: 30%;
-        position: absolute;
-    left:50%;
+        top: 65%;
+        left:50%;
     }
   }

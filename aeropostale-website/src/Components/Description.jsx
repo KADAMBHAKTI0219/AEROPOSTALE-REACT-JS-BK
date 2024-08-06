@@ -24,8 +24,6 @@ const Description = () => {
   return (
     <div className="product-list">
         <div key={products.id}>
-          <h1>{products.id}</h1>
-          
         <Card key={products.id} products={products} />
         </div>
 

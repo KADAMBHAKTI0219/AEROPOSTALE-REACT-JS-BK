@@ -5,14 +5,17 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import { CartProvider } from './Context/CartContext';
+import { SearchProvider } from './Context/Search';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  <SearchProvider>
   <CartProvider>
   <BrowserRouter>
     <App />
   </BrowserRouter>
   </CartProvider>
+  </SearchProvider>
 );
 
 // If you want to start measuring performance in your app, pass a function
