@@ -42,7 +42,7 @@ const Navigation = () => {
         <NavLink style={{...NavLinkStyle}} >Women</NavLink>
         <NavLink style={{...NavLinkStyle}}>Men</NavLink>
         <NavLink style={{...NavLinkStyle}}>Jeans</NavLink>
-        <NavLink style={{...NavLinkStyle}} to={'/aeroProducts'}>Aero For All</NavLink>
+        <NavLink style={{...NavLinkStyle}} to={'/productsPage'}>Aero For All</NavLink>
         <NavLink style={{...NavLinkStyle}}  >Clearance</NavLink>
       </div>
 
@@ -85,7 +85,7 @@ const Navigation = () => {
         <NavLink style={{...OffcanvasNavLinkStyle}} >Women</NavLink>
         <NavLink style={{...OffcanvasNavLinkStyle}}>Men</NavLink>
         <NavLink style={{...OffcanvasNavLinkStyle}}>Jeans</NavLink>
-        <NavLink to={'/aeroProducts'} style={{...OffcanvasNavLinkStyle}}>Aero For All</NavLink>
+        <NavLink to={'/productsPage'} style={{...OffcanvasNavLinkStyle}}>Aero For All</NavLink>
         <NavLink style={{...OffcanvasNavLinkStyle}}  >Clearance</NavLink>
         </div>
         <div className='NavIcons d-block text-center w-100 mt-4'>

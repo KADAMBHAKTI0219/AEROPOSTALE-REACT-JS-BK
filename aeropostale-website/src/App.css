@@ -3,6 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
     text-decoration: none;
+    font-family: 'Open Sans';
 }
 
 .Navbar {
@@ -202,19 +203,16 @@ footer a:hover {
     text-decoration: underline;
 }
 
-.LoginForm{
-    width: 100%;
-    transform:translate(-50%,-50%);
-    position: absolute;
-    top: 90%;
-    left:50%;
+.LoginForm,.EditForm{
+    width: 98%;
+    margin: auto;
     padding: 10px 20px;
     border-radius: 20px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     h2,h4{
         text-align: center;
     }
-    input{
+    input,select{
         width: 90%;
         margin:15px auto;
         display: block;
@@ -236,14 +234,14 @@ footer a:hover {
         margin: auto;
         display: flex;
         justify-content: space-between;
-        select{
-            width: 45%;
-            padding: 10px 20px;
-            outline: none;
-            border: none;
-            border-bottom: 1px solid grey;
-        }   
     }
+    select{
+        width: 45%;
+        padding: 10px 20px;
+        outline: none;
+        border: none;
+        border-bottom: 1px solid grey;
+    }   
     .SubmitBtn,.btnLogout{
         width: 45%;
         display: block;
@@ -285,12 +283,17 @@ footer a:hover {
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    
 }
 .loading {
-    font-size: 84px;
+    font-size: 50px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     text-align: center;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
     span {
         display: inline-block;
         margin: 0 -.05em;
@@ -410,6 +413,105 @@ footer a:hover {
   .button:active {
     border: 1px solid #17274A;
   }
+  .EditDeleteBtn button {
+    width: 120px;
+    padding:5px 10px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+}
+
+.button-box-special {
+    background: #383b3a;
+}
+
+button:focus {
+    outline: none;
+}
+  
+.edit,.delete {
+    background: #17274A;
+    color: white;
+    border-radius: 5px;
+    transition: all 300ms;
+    .btnLink{
+        color: white;
+    }
+}
+.delete{
+    background: red;
+}
+
+.edit:hover,.delete:hover{
+    transform: scale(1.1);
+    letter-spacing: 2px;
+    background: white;
+    color: #17274A;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.57);
+    .btnLink{
+        color: #17274A;
+    }
+}
+.delete:hover{
+    color: red;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 190px;
+    height: 300px;
+    margin:8% auto;
+    perspective: 1000px;
+    font-family: sans-serif;
+    
+  }
+  
+  .title {
+    font-size: 2em;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 5s;
+    transform-style: preserve-3d;
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border: 1px solid coral;
+    border-radius: 1rem;
+  }
+  
+  .flip-card-front {
+    background-color: #2234ae;
+    background-image: linear-gradient(315deg, #2234ae 0%, #191714 74%);
+  }
+  
+  .flip-card-back {
+    background-color: #2b4162;
+    background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+    transform: rotateY(180deg);
+  }
+
 
   
 
@@ -426,9 +528,9 @@ footer a:hover {
     }
     .productsContentMain{
         display: grid;
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(1,1fr);
     }
-    .LoginForm{
+    .LoginForm,.EditForm{
         width: 100%;
     }
     span{
@@ -439,6 +541,9 @@ footer a:hover {
        display: block;
        margin: auto;
        position: relative;
+    }
+    .loading{
+        font-size: 30px;
     }
 }
 @media (min-width: 767px) and (max-width:992px) {
@@ -458,12 +563,12 @@ footer a:hover {
     .social-icons {
         justify-content: center;
     }
-    .LoginForm{
+    .LoginForm,.EditForm{
         width: 70%;
     }
     .productsContentMain{
         display: grid;
-        grid-template-columns: repeat(3,1fr);
+        grid-template-columns: repeat(2,1fr);
     }
     span{
         position: relative;
@@ -474,17 +579,17 @@ footer a:hover {
        margin: auto;
        position: relative;
     }
+    .loading{
+        font-size: 50px;
+    }
 }
   
 
 @media only screen and (min-width: 993px) and (max-width: 1400px) {
     /* Your styles for laptops */
 
-    .LoginForm{
+    .LoginForm,.EditForm{
         width: 50%;
-        position: absolute;
-        top: 90%;
-        left:50%;
     }
     span{
         position: relative;
@@ -495,14 +600,17 @@ footer a:hover {
        margin: auto;
        position: relative;
     }
+    .loading{
+        font-size: 84px;
+    }
   }
 
   @media only screen and (min-width: 1400px) and (max-width:1920px){
     /* Your styles for desktops */
     .LoginForm{
         width: 30%;
-        position: absolute;
-        top: 65%;
-        left:50%;
+    }
+    .EditForm{
+        width: 50%;
     }
   }

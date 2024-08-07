@@ -68,7 +68,7 @@ const HomePage = () => {
             <h5>$12 & UP *</h5>
           </div>
           <div className="UpdatePromoLinks">
-            <a href="/aeroproducts">Women</a>
+            <a href="/productsPage">Women</a>
             <a href="">Men</a>
           </div>
         </div>
