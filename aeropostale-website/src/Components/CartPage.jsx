@@ -56,9 +56,9 @@ const CartPage = () => {
                 <td><h4>${(item.price || 0) * (item.quantity || 0)}</h4> </td>
                 <td> <button
                   onClick={() => removeItemFromCart(item.id)}
-                  style={{border:"0",fontSize:"20px",color:"red"}}
+                  style={{border:"0",fontSize:"20px",color:"red",display:"flex",alignItems:"center",justifyContent:"center",width:"100%"}}
                 >
-                 <RiDeleteBinLine />
+                 <RiDeleteBinLine />Delete
                 </button></td>
           </tr>
 

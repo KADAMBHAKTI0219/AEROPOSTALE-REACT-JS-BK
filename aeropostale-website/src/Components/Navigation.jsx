@@ -37,12 +37,12 @@ const Navigation = () => {
   return (
     <div>
       
-      <div className='Navbar d-none d-sm-none d-md-none d-lg-none d-xl-flex d-xxl-flex'>
+      <div className='Navbar d-none d-sm-none d-md-none d-lg-none d-xl-flex d-xxl-flex align-items-center '>
       <div className='NavPagesMove'>
-        <NavLink style={{...NavLinkStyle}}>Women</NavLink>
+        <NavLink style={{...NavLinkStyle}} >Women</NavLink>
         <NavLink style={{...NavLinkStyle}}>Men</NavLink>
         <NavLink style={{...NavLinkStyle}}>Jeans</NavLink>
-        <NavLink to={'/aeroProducts'} style={{...NavLinkStyle}}>Aero For All</NavLink>
+        <NavLink style={{...NavLinkStyle}} to={'/aeroProducts'}>Aero For All</NavLink>
         <NavLink style={{...NavLinkStyle}}  >Clearance</NavLink>
       </div>
 
@@ -82,7 +82,7 @@ const Navigation = () => {
         </Offcanvas.Header>
         <Offcanvas.Body>
         <div className='NavPagesMove d-flex flex-column m-auto w-100'>
-        <NavLink style={{...OffcanvasNavLinkStyle}}>Women</NavLink>
+        <NavLink style={{...OffcanvasNavLinkStyle}} >Women</NavLink>
         <NavLink style={{...OffcanvasNavLinkStyle}}>Men</NavLink>
         <NavLink style={{...OffcanvasNavLinkStyle}}>Jeans</NavLink>
         <NavLink to={'/aeroProducts'} style={{...OffcanvasNavLinkStyle}}>Aero For All</NavLink>

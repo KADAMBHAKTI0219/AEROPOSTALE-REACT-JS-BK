@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <div>
       {/* Footer */}
-       <footer className="bg-light py-4">
+       <footer className="bg-light py-4 mt-5">
       <Container>
-        <Row className="mb-3">
+        <Row className="mb-3 ">
           <Col md={2}>
             <h6>Store Locator</h6>
             <p><FaMapMarkerAlt /> Store Locator</p>

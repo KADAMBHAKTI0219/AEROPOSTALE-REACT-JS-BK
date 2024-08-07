@@ -28,30 +28,30 @@ const Card = ({ products }) => {
     <div className="product">
       <div className="container">
         <div className="row">
-          <div className="col-6">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 text-center text-sm-center text-md-center text-lg-start text-xl-start text-xxl-start">
             <div className="row">
-              <div className="col-6 mb-3">
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 mb-3 ">
                 <img
                   src={currentColor.image || "default-image-url"}
                   alt={products?.title || "Product Name"}
                   className="img-fluid"
                 />
               </div>
-              <div className="col-6 mb-3">
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 mb-3">
                 <img
                   src={currentColor.image2 || "default-image-url"}
                   alt={products?.title || "Product Name"}
                   className="img-fluid"
                 />
               </div>
-              <div className="col-6 mb-3">
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 mb-3 ">
                 <img
                   src={currentColor.image3 || "default-image-url"}
                   alt={products?.title || "Product Name"}
                   className="img-fluid"
                 />
               </div>
-              <div className="col-6 mb-3">
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 mb-3 ">
                 <img
                   src={currentColor.image4 || "default-image-url"}
                   alt={products?.title || "Product Name"}
@@ -60,7 +60,7 @@ const Card = ({ products }) => {
               </div>
             </div>
           </div>
-          <div className="col-6">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 text-center text-sm-center text-md-center text-lg-start text-xl-start text-xxl-start">
             <h2>{products?.title || "Product Name"}</h2>
             <p className="fs-4">Price: ${products?.price || "Price"}</p>
             <strong className="fs-5">Category: {products?.category || "Category"}</strong>

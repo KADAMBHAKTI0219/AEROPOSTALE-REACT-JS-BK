@@ -355,7 +355,61 @@ footer a:hover {
   strong{
     display: block;
   }
+  .button {
+    position: relative;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border: 1px solid #17274A;
+    background-color: white;
+
+  }
   
+  .button, .button__icon, .button__text {
+    transition: all 0.3s;
+  }
+  
+  .button .button__text {
+    transform: translateX(30px);
+    color: #17274A;
+    font-weight: 600;
+  }
+  
+  .button .button__icon {
+    position: absolute;
+    transform: translateX(109px);
+    height: 100%;
+    width: 39px;
+    background-color: #17274A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .button:hover {
+    background: #17274A;
+  }
+  
+  .button:hover .button__text {
+    color: transparent;
+  }
+
+  
+  .button:hover .button__icon {
+    width: 148px;
+    transform: translateX(0);
+  }
+  
+  .button:active .button__icon {
+    background-color: #17274A;
+  }
+  
+  .button:active {
+    border: 1px solid #17274A;
+  }
 
   
 
