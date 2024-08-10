@@ -9,7 +9,7 @@ const Description = () => {
   
 
   useEffect(() => {
-    axios.get(`http://localhost:3000/products/${id}`)
+    axios.get(`http://localhost:5000/products/${id}`)
       .then(response => {
         setProducts(response.data);
         console.log(response.data)

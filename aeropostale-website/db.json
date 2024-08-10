@@ -555,23 +555,6 @@
       "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
     },
     {
-      "id": 20,
-      "title": "Space-Dyed Colorblock Stretch Piqué Polo",
-      "price": 16,
-      "category": "Men",
-      "colors": [
-        {
-          "color": "#F6F5F5",
-          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfd9d3532/60473368_102_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7bcd38ce/60473368_102_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9d3244a8/60473368_102_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw13f5fb2a/60473368_102_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
-        }
-      ],
-      "description": "A comfortable and colorful match for chinos, cargos and jeans.",
-      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
-    },
-    {
       "id": 21,
       "title": "Skinny Jean",
       "price": 64.95,
@@ -1205,6 +1188,1190 @@
       ],
       "description": "Go all in on adorable with this comfy relaxed sweater designed with everyone's fave famous feline.",
       "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
+    },
+    {
+      "id": 46,
+      "title": "New York Giants Vintage Fit Graphic Tee",
+      "price": 13.48,
+      "category": "Women",
+      "colors": [
+        {
+          "color": "#FFEFEF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw797231d4/80644467_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw916cd27f/80644467_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw319d5498/80644467_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd0368535/80644467_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "description": "Pass the pigskin in this adorable crop top decked out with weathered Giants graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer."
+    },
+    {
+      "title": "Heart Print Square-Neck Cropped Tank",
+      "price": "12.48",
+      "description": "The one you'll always adore: this dreamy pointelle tank dressed up with lots of sweet, feminine details.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8021644c/80114488_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb7db0c47/80114488_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf398cda4/80114488_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw35fe6908/80114488_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 47
+    },
+    {
+      "title": "New York Quarter-Zip Sweatshirt",
+      "price": "28.00",
+      "description": "Give a shoutout to the City That Never Sleeps with this comfy fleece pullover. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw012e3fdb/60215060_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e90c82d/60215060_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5757de95/60215060_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3a37f987/60215060_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 48
+    },
+    {
+      "title": "New York Quarter-Zip Sweatshirt",
+      "price": "26.00",
+      "description": "Give a shoutout to the City That Never Sleeps with this comfy fleece pullover. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFE7E7",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbb5e0ef7/81994890_667_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw54e413de/81994890_667_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw991c4bd1/81994890_667_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc523de75/81994890_667_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F8F4E1",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfb1d9e0d/81994890_067_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw120670bb/81994890_067_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1e24cfb6/81994890_067_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe60e1457/81994890_067_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#7E6363",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd203becd/81994890_027_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1f3258ff/81994890_027_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbc257021/81994890_027_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf30f9c9c/81994890_027_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw21d86058/81994890_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1c362340/81994890_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7ebb2bb8/81994890_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8b8d5f80/81994890_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 49
+    },
+    {
+      "title": "KND Low-Rise Baggy Jean",
+      "price": "64.95",
+      "description": "Ripped knees, a low rise and a baggy silhouette straight outta the '90s. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#BBE9FF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0dd418bf/87011105_962_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e44d41d/87011105_962_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw486c063c/87011105_962_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd196a690/87011105_962_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 50
+    },
+    {
+      "title": "Mid-Rise Uniform Bermuda Shorts",
+      "price": "18.00",
+      "description": "Soft, stretchy and the perfect length for getting through the school day in complete comfort.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#201E43",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2f52a56/85115060_403_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw488c9853/85115060_403_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw86396e46/85115060_403_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9a747d7d/85115060_403_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F1DEC6",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf55a4faf/85115060_251_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd1da81ea/85115060_251_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8d9d31ad/85115060_251_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw207d0782/85115060_251_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw860850bd/85115060_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2be08280/85115060_001_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2f26317f/85115060_001_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2c06d25b/85115060_001_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 51
+    },
+    {
+      "title": "Aeropostale 1987 Cinched Sweatpants",
+      "price": "16.42",
+      "description": "Must-have sweats featuring that soft fleecy goodness for all-day comfort. Grab our coordinating hoodie to match.  Details",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#6482AD",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw294fac9d/82003472_428_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwed2cfbb3/82003472_428_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbec11646/82003472_428_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw34ee7447/82003472_428_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#FFDFDF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4da0c644/82003472_690_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6038c2a3/82003472_690_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7556e5c9/82003472_690_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe936050d/82003472_690_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#DDDDDD",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfb8107da/82003472_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2fa4946f/82003472_053_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4e99dfa7/82003472_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7a5ec6bc/82003472_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 52
+    },
+    {
+      "title": "Eco Essentials Pullover Hoodie",
+      "price": "26.00",
+      "description": "Get ready to feel oh-so-cozy in this super-comfy relaxed hoodie. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2b00e71/81995433_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf287fdbb/81995433_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw839d0b29/81995433_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf5823072/81995433_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#47A992",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3efc54bb/81994889_386_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd34e1675/81994889_386_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw847d782a/81994889_386_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaa924f9f/81994889_386_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd3248b18/81995433_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5d8714a4/81995433_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4dcdb9a7/81995433_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw18a0aa4a/81995433_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#DDE6ED",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe5cc210d/81994889_014_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4080bdc4/81994889_014_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6d7dfa10/81994889_014_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcda9b983/81994889_014_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 53
+    },
+    {
+      "title": "Aeropostale Arch Rose Appliqué Graphic Tee",
+      "price": "32.95",
+      "description": "Classic style, soft fabric and a slim fit. It's the comfy tee you'll pick over and over again.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#B0A4A4",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2f293cc8/60054936_216_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw78808b17/60054936_216_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb905eec8/60054936_216_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd2763aa1/60054936_216_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 54
+    },
+    {
+      "title": "Pacific Palisades Club Crew Sweatshirt",
+      "price": "28.00",
+      "description": "A cozy, laid-back sweatshirt with chill Cali vibes. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#2B2A4C",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9dcef721/60715383_402_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwad47e15f/60715383_402_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf4b6a2ea/60715383_402_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0b9cd5b1/60715383_402_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 55
+    },
+    {
+      "title": "Oakland Athletics Crew Sweatshirt",
+      "price": "28.00",
+      "description": "When it's chilly, reach for this Cali-cool sweatshirt to keep comfy and warm. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#CE5959",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4b22ddc0/60715478_221_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw016017a8/60715478_221_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw69ecaf09/60715478_221_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw96d5b6b3/60715478_221_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 56
+    },
+    {
+      "title": "Vertical Stripe Jersey Polo",
+      "price": "16.00",
+      "description": "Go bold or go home in this preppy classic decked out with thick vertical stripes.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D8D8D8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw65e8d2a9/60474925_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8a13372a/60474925_053_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc8210930/60474925_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw776abf6f/60474925_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#ECF2FF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6a5269c7/60474925_108_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw258e33b7/60474925_108_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw59b38c0c/60474925_108_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw97504e67/60474925_108_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#82C3EC",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw827f0f2b/60474925_466_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfb34747c/60474925_466_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf173ca72/60474925_466_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd6f905c0/60474925_466_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C68484",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5bde3006/60474925_642_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw82b16182/60474925_642_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw53059518/60474925_642_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa3bb51fc/60474925_642_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 57
+    },
+    {
+      "title": "Solid Mini Skirt",
+      "price": "14.00",
+      "description": "This classic, fully lined mini skirt will be the foundation of so many of your favorite fits.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa48f7885/84111654_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa48f7885/84111654_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9eb74440/84111654_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4c7db83d/84111654_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 58
+    },
+    {
+      "title": "Flocked Bow Mesh Cropped Tank",
+      "price": "12.48",
+      "description": "Set your style to stunning with this ruched mesh crop top wrapped in a fuzzy flocked bow print.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5902d965/80114489_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe170be7a/80114489_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9a82ce07/80114489_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw317aeafd/80114489_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 59
+    },
+    {
+      "title": "Flare Mid-Rise Cargo Jean",
+      "price": "64.95",
+      "description": "Go all in on that Y2K vibe with these stretchy flare-leg jeans outfitted with cargo pockets. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#DDE6ED",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw56cb305d/87011386_176_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9bec6b4f/87011386_176_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw358b8524/87011386_176_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw77a6629b/87011386_176_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 60
+    },
+    {
+      "title": "Low-Rise Baggy Jean",
+      "price": "59.95",
+      "description": "Upgrade your denim collection with this baggy '90s pair featuring a unique pale grey wash. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D8D9DA",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwba28ca50/87011372_125_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw60f494ab/87011372_125_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbd35839f/87011372_125_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw442a9ea0/87011372_125_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 61
+    },
+    {
+      "title": "Aeropostale Butterfly Pullover Hoodie",
+      "price": "20.00",
+      "description": "Feel that coziness 24/7 in this soft hoodie accented with logo- and nature-inspired graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#C1A3A3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfe59b622/81063478_216_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8b17ddd4/81063478_216_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc7ed85e2/81063478_216_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4780e0a3/81063478_216_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfa15a66c/81063478_274_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0955128d/81063478_274_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw44bc479c/81063478_274_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw182e9656/81063478_274_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 62
+    },
+    {
+      "title": "Washed High-Neck Cropped Waffle Tank",
+      "price": "9.98",
+      "description": "Ultra comfy in stretchy, textured waffle fabric, this cute tank is an everyday go-to.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#F3C5C5",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe57c8e2d/80111103_814_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw92b48aa2/80111103_814_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9630dc10/80111103_814_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwac8e821b/80111103_814_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 63
+    },
+    {
+      "title": "Miami Heat Top",
+      "price": "28.00",
+      "description": "When your team's on fire, cheer them on in this authentic baseball-style top decked out front-to-back with Heat graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw950b64a8/60171256_100_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd021f041/60171256_100_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3f7c7491/60171256_100_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf6f3310b/60171256_100_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 64
+    },
+    {
+      "title": "New York Knicks Top",
+      "price": "32.00",
+      "description": "Always a winning style: this sporty NY Knicks top featuring tons of authentic hoops graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4ffd3fb/60171255_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw539aae14/60171255_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw44e6f1a7/60171255_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbcb97937/60171255_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 65
+    },
+    {
+      "title": "Be Kind Essentials Crew Sweatshirt",
+      "price": "28.00",
+      "description": "Spread positivity everywhere you go in this incredibly comfortable sweatshirt. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#F5F7F8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd797a15b/81995437_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa325ad7f/81995437_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcd295934/81995437_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3d5ccf2a/81995437_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 66
+    },
+    {
+      "title": "Relaxed Cargo Pants",
+      "price": "69.95",
+      "description": "So comfortable in a relaxed silhouette, these must-have cargos boast plenty of oversized pockets for stuff stashing. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#B0A695",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw824dde6e/64194838_971_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw13ec5923/64194838_971_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw55b68976/64194838_971_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe41235b4/64194838_971_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 67
+    },
+    {
+      "title": "Belted Cargo Shorts 11.5\"",
+      "price": "28.48",
+      "description": "Outfitted with tons of pockets, our Belted Cargo Shorts supply enough storage space for everything you need to bring with you! They hit below the knee and feature rugged ripstop fabric and a contrasting D-ring belt to help you find the perfect fit.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#4F709C",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdcb927e5/66112024_023_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw126c5660/66112024_023_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5f556187/66112024_023_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8a442223/66112024_023_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C0A080",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw34f39c57/66112024_289_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc46edea5/66112024_289_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1fe76b60/66112024_289_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw977cfa6a/66112024_289_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#6D8B74",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5e3be851/66112024_180_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa8589a5d/66112024_180_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw46633630/66112024_180_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3bd6b6da/66112024_180_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 68
+    },
+    {
+      "title": "Carpenter Pants",
+      "price": "32.00",
+      "description": "Stylish and comfortable in cotton canvas, with all the rugged carpenter-inspired details.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#73777B",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdfe32d3a/64914845_036_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdaf4c57d/64914845_036_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5f47e31e/64914845_036_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8145cb14/64914845_036_alt4.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C7BEA2",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa78f5dad/64914845_182_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2b0c18cb/64914845_182_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw67b481c4/64914845_182_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4219dd2/64914845_182_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#D9CAB3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw144307ae/64914845_238_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw293564e5/64914845_238_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2e60ee1/64914845_238_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4ff0e017/64914845_238_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#FEFBF3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwce00dd60/64914845_287_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5d723b1d/64914845_287_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb92d5751/64914845_287_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbb00a95b/64914845_287_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 69
+    },
+    {
+      "title": "Slim Cargo Pants",
+      "price": "30.00",
+      "description": "A dressier version of your go-to cargos, designed with a slimmer leg and extra-soft stretch fabric.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#716F81",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd7be6438/64913246_067_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw269d2f8e/64913246_067_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw317a0488/64913246_067_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5ab87a63/64913246_067_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#334257",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw503de8d7/64913246_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7317b499/64913246_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcdac6acf/64913246_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7fee4438/64913246_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e93cfe7/64913246_257_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa3069a30/64913246_257_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6a9c32ca/64913246_257_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3424626b/64913246_257_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F1CA89",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc787a443/64913246_289_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4f2883cc/64913246_289_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwabee72b8/64913246_289_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwac9999eb/64913246_289_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 70
+    },
+    {
+      "title": "Essentials Straight Leg Sweatpants",
+      "price": "29.00",
+      "description": "Feel-good sweats made for lounging the day away in total comfort. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw31bc3c70/69614874_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw460cc050/69614874_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw645c23be/69614874_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwed0f5fd4/69614874_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd8bc6ec7/69614874_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw54075296/69614874_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdc0968ce/69614874_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw67ff7e98/69614874_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 71
+    },
+    {
+      "title": "Essentials Washed Full-Zip Hoodie",
+      "price": "26.00",
+      "description": "You'll wanna lounge 24/7 in this ultra-comfy, laid-back hoodie. Add our matching sweats to complete the look.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D0B8A8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfe0a2bfb/81994711_209_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw854ae2c5/81994711_209_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw152672b3/81994711_209_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw72676e47/81994711_209_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F3D0D7",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcb7d2d90/81995013_897_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfedcdc10/81995013_897_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw90f880c2/81995013_897_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw84fd27b5/81995013_897_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#211951",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1a6c8cf5/81995026_468_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw159cbadb/81995026_468_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd0151972/81995026_468_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw30bb0377/81995026_468_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 72
+    }
+  ],
+
+
+  
+  "sellerProducts": [
+    {
+      "title": "KND Low-Rise Baggy Jean",
+      "price": "64.95",
+      "description": "Ripped knees, a low rise and a baggy silhouette straight outta the '90s. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#BBE9FF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0dd418bf/87011105_962_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e44d41d/87011105_962_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw486c063c/87011105_962_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd196a690/87011105_962_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 1
+    },
+    {
+      "title": "Mid-Rise Uniform Bermuda Shorts",
+      "price": "18.00",
+      "description": "Soft, stretchy and the perfect length for getting through the school day in complete comfort.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#201E43",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2f52a56/85115060_403_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw488c9853/85115060_403_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw86396e46/85115060_403_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9a747d7d/85115060_403_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F1DEC6",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf55a4faf/85115060_251_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd1da81ea/85115060_251_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8d9d31ad/85115060_251_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw207d0782/85115060_251_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw860850bd/85115060_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2be08280/85115060_001_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2f26317f/85115060_001_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2c06d25b/85115060_001_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 2
+    },
+    {
+      "title": "Aeropostale 1987 Cinched Sweatpants",
+      "price": "16.42",
+      "description": "Must-have sweats featuring that soft fleecy goodness for all-day comfort. Grab our coordinating hoodie to match.  Details",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#6482AD",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw294fac9d/82003472_428_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwed2cfbb3/82003472_428_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbec11646/82003472_428_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw34ee7447/82003472_428_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#FFDFDF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4da0c644/82003472_690_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6038c2a3/82003472_690_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7556e5c9/82003472_690_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe936050d/82003472_690_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#DDDDDD",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfb8107da/82003472_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2fa4946f/82003472_053_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4e99dfa7/82003472_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7a5ec6bc/82003472_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 3
+    },
+    {
+      "title": "Eco Essentials Pullover Hoodie",
+      "price": "26.00",
+      "description": "Get ready to feel oh-so-cozy in this super-comfy relaxed hoodie. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2b00e71/81995433_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf287fdbb/81995433_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw839d0b29/81995433_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf5823072/81995433_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#47A992",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3efc54bb/81994889_386_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd34e1675/81994889_386_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw847d782a/81994889_386_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaa924f9f/81994889_386_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd3248b18/81995433_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5d8714a4/81995433_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4dcdb9a7/81995433_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw18a0aa4a/81995433_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#DDE6ED",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe5cc210d/81994889_014_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4080bdc4/81994889_014_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6d7dfa10/81994889_014_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcda9b983/81994889_014_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 4
+    },
+    {
+      "title": "Aeropostale Arch Rose Appliqué Graphic Tee",
+      "price": "32.95",
+      "description": "Classic style, soft fabric and a slim fit. It's the comfy tee you'll pick over and over again.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#B0A4A4",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2f293cc8/60054936_216_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw78808b17/60054936_216_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb905eec8/60054936_216_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd2763aa1/60054936_216_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 5
+    },
+    {
+      "title": "Pacific Palisades Club Crew Sweatshirt",
+      "price": "28.00",
+      "description": "A cozy, laid-back sweatshirt with chill Cali vibes. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#2B2A4C",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9dcef721/60715383_402_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwad47e15f/60715383_402_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf4b6a2ea/60715383_402_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0b9cd5b1/60715383_402_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 6
+    },
+    {
+      "title": "Oakland Athletics Crew Sweatshirt",
+      "price": "28.00",
+      "description": "When it's chilly, reach for this Cali-cool sweatshirt to keep comfy and warm. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#CE5959",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4b22ddc0/60715478_221_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw016017a8/60715478_221_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw69ecaf09/60715478_221_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw96d5b6b3/60715478_221_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 7
+    },
+    {
+      "title": "Vertical Stripe Jersey Polo",
+      "price": "16.00",
+      "description": "Go bold or go home in this preppy classic decked out with thick vertical stripes.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D8D8D8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw65e8d2a9/60474925_053_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8a13372a/60474925_053_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc8210930/60474925_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw776abf6f/60474925_053_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#ECF2FF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6a5269c7/60474925_108_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw258e33b7/60474925_108_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw59b38c0c/60474925_108_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw97504e67/60474925_108_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#82C3EC",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw827f0f2b/60474925_466_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfb34747c/60474925_466_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf173ca72/60474925_466_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd6f905c0/60474925_466_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C68484",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5bde3006/60474925_642_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw82b16182/60474925_642_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw53059518/60474925_642_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa3bb51fc/60474925_642_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 8
+    },
+    {
+      "title": "Solid Mini Skirt",
+      "price": "14.00",
+      "description": "This classic, fully lined mini skirt will be the foundation of so many of your favorite fits.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa48f7885/84111654_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa48f7885/84111654_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9eb74440/84111654_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4c7db83d/84111654_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 9
+    },
+    {
+      "title": "Flocked Bow Mesh Cropped Tank",
+      "price": "12.48",
+      "description": "Set your style to stunning with this ruched mesh crop top wrapped in a fuzzy flocked bow print.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5902d965/80114489_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe170be7a/80114489_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9a82ce07/80114489_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw317aeafd/80114489_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 10
+    },
+    {
+      "title": "Flare Mid-Rise Cargo Jean",
+      "price": "64.95",
+      "description": "Go all in on that Y2K vibe with these stretchy flare-leg jeans outfitted with cargo pockets. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#DDE6ED",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw56cb305d/87011386_176_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9bec6b4f/87011386_176_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw358b8524/87011386_176_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw77a6629b/87011386_176_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 11
+    },
+    {
+      "title": "Low-Rise Baggy Jean",
+      "price": "59.95",
+      "description": "Upgrade your denim collection with this baggy '90s pair featuring a unique pale grey wash. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D8D9DA",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwba28ca50/87011372_125_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw60f494ab/87011372_125_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbd35839f/87011372_125_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw442a9ea0/87011372_125_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 12
+    },
+    {
+      "title": "Aeropostale Butterfly Pullover Hoodie",
+      "price": "20.00",
+      "description": "Feel that coziness 24/7 in this soft hoodie accented with logo- and nature-inspired graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#C1A3A3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfe59b622/81063478_216_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8b17ddd4/81063478_216_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc7ed85e2/81063478_216_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4780e0a3/81063478_216_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfa15a66c/81063478_274_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0955128d/81063478_274_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw44bc479c/81063478_274_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw182e9656/81063478_274_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 13
+    },
+    {
+      "title": "Washed High-Neck Cropped Waffle Tank",
+      "price": "9.98",
+      "description": "Ultra comfy in stretchy, textured waffle fabric, this cute tank is an everyday go-to.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#F3C5C5",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe57c8e2d/80111103_814_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw92b48aa2/80111103_814_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9630dc10/80111103_814_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwac8e821b/80111103_814_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Women",
+      "id": 14
+    },
+    {
+      "title": "Miami Heat Top",
+      "price": "28.00",
+      "description": "When your team's on fire, cheer them on in this authentic baseball-style top decked out front-to-back with Heat graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw950b64a8/60171256_100_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd021f041/60171256_100_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3f7c7491/60171256_100_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf6f3310b/60171256_100_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 15
+    },
+    {
+      "title": "New York Knicks Top",
+      "price": "32.00",
+      "description": "Always a winning style: this sporty NY Knicks top featuring tons of authentic hoops graphics.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4ffd3fb/60171255_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw539aae14/60171255_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw44e6f1a7/60171255_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbcb97937/60171255_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 16
+    },
+    {
+      "title": "Be Kind Essentials Crew Sweatshirt",
+      "price": "28.00",
+      "description": "Spread positivity everywhere you go in this incredibly comfortable sweatshirt. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#F5F7F8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd797a15b/81995437_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa325ad7f/81995437_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcd295934/81995437_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3d5ccf2a/81995437_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 17
+    },
+    {
+      "title": "Relaxed Cargo Pants",
+      "price": "69.95",
+      "description": "So comfortable in a relaxed silhouette, these must-have cargos boast plenty of oversized pockets for stuff stashing. Fabric features recycled cotton, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#B0A695",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw824dde6e/64194838_971_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw13ec5923/64194838_971_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw55b68976/64194838_971_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe41235b4/64194838_971_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 18
+    },
+    {
+      "title": "Belted Cargo Shorts 11.5\"",
+      "price": "28.48",
+      "description": "Outfitted with tons of pockets, our Belted Cargo Shorts supply enough storage space for everything you need to bring with you! They hit below the knee and feature rugged ripstop fabric and a contrasting D-ring belt to help you find the perfect fit.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#4F709C",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdcb927e5/66112024_023_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw126c5660/66112024_023_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5f556187/66112024_023_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8a442223/66112024_023_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C0A080",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw34f39c57/66112024_289_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc46edea5/66112024_289_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1fe76b60/66112024_289_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw977cfa6a/66112024_289_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#6D8B74",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5e3be851/66112024_180_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa8589a5d/66112024_180_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw46633630/66112024_180_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3bd6b6da/66112024_180_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 19
+    },
+    {
+      "title": "Carpenter Pants",
+      "price": "32.00",
+      "description": "Stylish and comfortable in cotton canvas, with all the rugged carpenter-inspired details.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#73777B",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdfe32d3a/64914845_036_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdaf4c57d/64914845_036_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5f47e31e/64914845_036_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8145cb14/64914845_036_alt4.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#C7BEA2",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa78f5dad/64914845_182_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2b0c18cb/64914845_182_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw67b481c4/64914845_182_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd4219dd2/64914845_182_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#D9CAB3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw144307ae/64914845_238_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw293564e5/64914845_238_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc2e60ee1/64914845_238_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4ff0e017/64914845_238_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#FEFBF3",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwce00dd60/64914845_287_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5d723b1d/64914845_287_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb92d5751/64914845_287_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbb00a95b/64914845_287_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 20
+    },
+    {
+      "title": "Slim Cargo Pants",
+      "price": "30.00",
+      "description": "A dressier version of your go-to cargos, designed with a slimmer leg and extra-soft stretch fabric.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#716F81",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd7be6438/64913246_067_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw269d2f8e/64913246_067_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw317a0488/64913246_067_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5ab87a63/64913246_067_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#334257",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw503de8d7/64913246_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7317b499/64913246_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcdac6acf/64913246_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7fee4438/64913246_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#EEEEEE",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8e93cfe7/64913246_257_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa3069a30/64913246_257_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6a9c32ca/64913246_257_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3424626b/64913246_257_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F1CA89",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwc787a443/64913246_289_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4f2883cc/64913246_289_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwabee72b8/64913246_289_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwac9999eb/64913246_289_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "Men",
+      "id": 21
+    },
+    {
+      "title": "Essentials Straight Leg Sweatpants",
+      "price": "29.00",
+      "description": "Feel-good sweats made for lounging the day away in total comfort. Fabric features recycled polyester, which is crafted from a mix of pre- and post-consumer waste to help reduce landfills.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw31bc3c70/69614874_041_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw460cc050/69614874_041_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw645c23be/69614874_041_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwed0f5fd4/69614874_041_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#151515",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd8bc6ec7/69614874_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw54075296/69614874_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdc0968ce/69614874_007_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw67ff7e98/69614874_007_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 22
+    },
+    {
+      "title": "Essentials Washed Full-Zip Hoodie",
+      "price": "26.00",
+      "description": "You'll wanna lounge 24/7 in this ultra-comfy, laid-back hoodie. Add our matching sweats to complete the look.",
+      "details": "Where an item has a comp value price listed next to, above or below the current price, that price represents either the price at which we previously offered the product, or our good-faith estimate of prices for comparable items at department, specialty or other retail stores or websites. As prices often fluctuate, we cannot guarantee that the comp value price reflects the prevailing market price at any given time in any given geographic area. As a result, we encourage you to do your own comparison shopping as another way to see what great value we offer.",
+      "colors": [
+        {
+          "color": "#D0B8A8",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfe0a2bfb/81994711_209_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw854ae2c5/81994711_209_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw152672b3/81994711_209_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw72676e47/81994711_209_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#F3D0D7",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcb7d2d90/81995013_897_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwfedcdc10/81995013_897_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw90f880c2/81995013_897_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw84fd27b5/81995013_897_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        },
+        {
+          "color": "#211951",
+          "image": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1a6c8cf5/81995026_468_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image2": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw159cbadb/81995026_468_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image3": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd0151972/81995026_468_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+          "image4": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw30bb0377/81995026_468_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+        }
+      ],
+      "category": "UNISEX",
+      "id": 23
     }
   ]
 }

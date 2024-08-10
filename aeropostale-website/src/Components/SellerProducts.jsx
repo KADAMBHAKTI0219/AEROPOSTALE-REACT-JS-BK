@@ -14,10 +14,10 @@ const SellerProducts = () => {
 
   const getProductsData = () => {
     axios
-      .get("http://localhost:3000/products", {
+      .get("http://localhost:5000/sellerProducts", {
         params: {
           _page:page,
-          _limit:10,
+          _limit:8,
           category: category,
           _sort: "price",
           _order: order,
@@ -31,18 +31,26 @@ const SellerProducts = () => {
       })
       .catch((err) => console.log(err));
   };
+
+  const DeleteProductsBtn = (id)=>{
+    axios.delete(`http://localhost:5000/sellerProducts/${id}`)
+    .then((res)=>{
+      getProductsData()
+      }).catch(err=>console.log(err))
+  }
+
   useEffect(() => {
     getProductsData();
   }, [page,category, order, search]);
   return (
     <div>
-      <div className="d-flex justify-content-between flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row w-75 m-auto align-items-center">
+      <div className="d-flex justify-content-between flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row w-75 m-auto align-items-center topHeader">
         <div className="ShowCategory">
           <select
             name=""
             id=""
             onChange={(e) => setCategory(e.target.value)}
-            className="p-2 border-rounded rounded-2 mb-2"
+            className="border-rounded rounded-3 mb-2"
           >
             <option value="">Show Filters</option>
             <option value="Women">Women</option>
@@ -58,7 +66,7 @@ const SellerProducts = () => {
             name=""
             id=""
             onChange={(e) => setOrder(e.target.value)}
-            className="p-2 border-rounded rounded-2 mb-2"
+            className="border-rounded rounded-3 mb-2"
           >
             <option value="">Sort By</option>
             <option value="asc">Price Low To High</option>
@@ -66,7 +74,7 @@ const SellerProducts = () => {
           </select>
         </div>
       </div>
-      <div className="productsContentMain">
+      <div className="productsContentMain mb-5">
         {productData.map((item) => (
           <div key={item.id} className="productsContent text-center">
             <Link to={`/description/${item.id}`}>
@@ -83,22 +91,22 @@ const SellerProducts = () => {
                 <button className="edit "><Link to={`/editProducts/${item.id}`} className="btnLink text-decoration-none">Edit</Link></button>
             </div>
             <div className="button-box">
-                <button className="delete ">Delete</button>
+                <button className="delete" onClick={()=>DeleteProductsBtn(item.id)}>Delete</button>
             </div>
             </div>
           </div>
         ))}
       </div>
 
-     <div className="d-flex w-25 justify-content-between m-auto align-items-center">
-     <button type="button" class="button" onClick={()=>setPage(page - 1)}   disabled={page === 1}>
-  <span class="button__text">Prev</span>
-  <span class="button__icon"><FaArrowLeftLong /></span>
+     <div className="d-flex w-50 justify-content-between m-auto align-items-center">
+     <button type="button" className="button" onClick={()=>setPage(page - 1)}   disabled={page === 1}>
+  <span className="button__text">Prev</span>
+  <span className="button__icon"><FaArrowLeftLong /></span>
 </button>
       <span className="fs-5">{page}</span>
-      <button type="button" class="button"  onClick={()=>setPage(page + 1)}   disabled={page === totalPages}>
-  <span class="button__text">Next</span>
-  <span class="button__icon"><FaArrowRightLong /></span>
+      <button type="button" className="button"  onClick={()=>setPage(page + 1)}   disabled={page === totalPages}>
+  <span className="button__text">Next</span>
+  <span className="button__icon"><FaArrowRightLong /></span>
 </button>
     </div>
      </div>

@@ -19,7 +19,8 @@ const Navigation = () => {
     textDecoration: 'none',
     color: '#2e3133',
     fontSize: '1.2rem',
-    fontWeight:"500"
+    fontWeight:"500",
+    zIndex:"999"
   }
   const OffcanvasNavLinkStyle ={
     width:"100%",
@@ -94,6 +95,7 @@ const Navigation = () => {
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/login"}> <BiUser/> </NavLink>
         <NavLink style={{...NavLinkStyle,fontSize:"1.8rem",position:"relative"}} to={"/cartPage"}> <IoBagOutline />
         <span className='counter position-relative' style={{right:"5%",fontSize:"16px"}} >{count}</span> </NavLink>
+        <input type="" />
         </div>
         </Offcanvas.Body>
     </Offcanvas>

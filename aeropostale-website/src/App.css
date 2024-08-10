@@ -18,7 +18,7 @@
 
 .NavPagesMove,
 .NavIcons {
-    width: 30%;
+    width: 35%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -73,12 +73,15 @@
         border-radius: 20px;
         padding: 10px 0px;
 
-        a {
-            color: #000;
-            padding: 0px 20px;
-            font-size: 16px;
-            font-weight: 600;
-        }
+        h4 {
+          color: #000;
+          padding: 0px 20px;
+          font-size: 16px;
+          text-decoration: none;
+          font-weight: 600;
+          text-align: center;
+          word-spacing: 30px;
+      }
     }
 }
 
@@ -96,18 +99,17 @@
 }
 
 .AeroBtsDeals {
-    width: 50%;
     background-color: #fff;
     border-radius: 20px;
     padding: 10px 0px;
-    height: 60px;
-
-    a {
+    h4 {
         color: #000;
         padding: 0px 20px;
         font-size: 25px;
         text-decoration: none;
         font-weight: 600;
+        text-align: center;
+        word-spacing: 30px;
     }
 }
 
@@ -118,7 +120,54 @@
 .productsContent{
   padding: 10px;
   margin: 20px;
+  position: relative;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border-radius: 20px;
+  padding: 10px;
+  h5{
+    font-weight: 700;
+  }
 }
+.productsImage{
+  border-radius: 20px;
+  transition: all 0.6s;
+  position:relative;
+}
+.productsImage:hover{
+transform: scale(0.9);
+}
+.WishListCartMainDiv{
+  width: 90%;
+  margin: auto;
+  border-radius: 10px;
+  display: none;
+  background: rgb(255,152,152);
+  background: linear-gradient(90deg, rgba(255,152,152,0.96) 0%, rgba(251,0,26,0.4) 26%, rgba(36,113,252,0.8) 100%);
+  backdrop-filter: blur(5px);
+}
+.productsImagesEach:hover .WishListCartMainDiv{
+  transition: all 2s;
+  display: block;
+  position: relative;
+  bottom: 10px;
+}
+.WishListBtn,.CartBtn{ 
+  width: 50%;
+  padding: 5px 20px;
+  font-size: 26px;
+  border: none;
+  background-color: transparent;
+  span{
+    transition: all 0.8s;
+    position: relative;
+    bottom: 0;
+    color: white;
+  }
+  span:hover{
+    color: black;
+  }
+}
+
 
 .JeansShipping,
 .HelloKitty,
@@ -259,6 +308,12 @@ footer a:hover {
         background-color: red;
     }
 }
+.topHeader{
+  select{
+    padding: 10px;
+    border: 2px solid black;
+  }
+}
 .toggleBtnDiv{
     width: 98%;
    border: none;
@@ -280,10 +335,9 @@ footer a:hover {
 }
 .productsContentMain{
     width: 90%;
-    margin: auto;
+    margin:5% auto;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    
 }
 .loading {
     font-size: 50px;
@@ -360,29 +414,37 @@ footer a:hover {
   }
   .button {
     position: relative;
-    width: 150px;
+    width: 80px;
     height: 40px;
     cursor: pointer;
     display: flex;
     align-items: center;
     border: 1px solid #17274A;
     background-color: white;
-
+    border-radius: 10px;
   }
   
-  .button, .button__icon, .button__text {
-    transition: all 0.3s;
+  .button .button__icon .button__text {
+    transition: all 0.5s;
+  }
+  .button .button__icon1 .button__text1 {
+    transition: all 0.5s;
   }
   
   .button .button__text {
-    transform: translateX(30px);
+    transform: translateX(40px);
+    color: #17274A;
+    font-weight: 600;
+  }
+  .button .button__text1{
+    transform: translateX(3px);
     color: #17274A;
     font-weight: 600;
   }
   
-  .button .button__icon {
+  .button .button__icon { 
     position: absolute;
-    transform: translateX(109px);
+    transform: translateX(0px);
     height: 100%;
     width: 39px;
     background-color: #17274A;
@@ -390,7 +452,23 @@ footer a:hover {
     align-items: center;
     justify-content: center;
     color: white;
+    border-radius: 10px 0px 0px 10px;
+    transition: all 0.8s;
   }
+  .button .button__icon1{
+    position: absolute;
+    transform: translateX(40px);
+    height: 100%;
+    width: 39px;
+    background-color: #17274A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 0px 10px 10px 0px;
+    transition: all 0.8s;
+  }
+ 
   
   .button:hover {
     background: #17274A;
@@ -399,15 +477,29 @@ footer a:hover {
   .button:hover .button__text {
     color: transparent;
   }
+  .button:hover .button__text1{
+    color: transparent;
+  }
 
   
   .button:hover .button__icon {
-    width: 148px;
+    width: 80px;
     transform: translateX(0);
+    border-radius: 10px;
+  }
+  .button:hover .button__icon1{
+    width: 80px;
+    transform: translateX(0);
+    border-radius: 10px;
   }
   
   .button:active .button__icon {
     background-color: #17274A;
+   
+  }
+  .button:active .button__icon1 {
+    background-color: #17274A;
+   
   }
   
   .button:active {
@@ -511,11 +603,12 @@ button:focus {
     background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
     transform: rotateY(180deg);
   }
+.WishlistMain{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 20px;
+}
 
-
-  
-
-  
 @media (min-width: 320px) and (max-width:768px) {
     .UpdatesPromo {
         overflow-x: scroll;
@@ -544,6 +637,10 @@ button:focus {
     }
     .loading{
         font-size: 30px;
+    }
+    .WishlistMain{
+      display: grid;
+      grid-template-columns: repeat(1,1fr);
     }
 }
 @media (min-width: 767px) and (max-width:992px) {
@@ -582,6 +679,10 @@ button:focus {
     .loading{
         font-size: 50px;
     }
+    .WishlistMain{
+      display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
 }
   
 
@@ -600,8 +701,16 @@ button:focus {
        margin: auto;
        position: relative;
     }
+    .productsContentMain{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+  }
     .loading{
         font-size: 84px;
+    }
+    .WishlistMain{
+      display: grid;
+        grid-template-columns: repeat(2,1fr);
     }
   }
 
@@ -613,4 +722,12 @@ button:focus {
     .EditForm{
         width: 50%;
     }
+    .productsContentMain{
+      display: grid;
+      grid-template-columns: repeat(4,1fr);
+  }
+  .WishlistMain{
+    display: grid;
+      grid-template-columns: repeat(2,1fr);
+  }
   }

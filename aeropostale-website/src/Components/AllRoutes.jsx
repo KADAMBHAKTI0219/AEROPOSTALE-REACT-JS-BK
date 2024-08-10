@@ -9,6 +9,8 @@ import SellerProducts from './SellerProducts'
 import EditProducts from './EditProducts'
 import AddProducts from './AddProducts'
 import ProductsPage from '../Pages/ProductsPage'
+import PrivateAuthentication from './PrivateAuthentication'
+import WishList from './WishList'
 
 const AllRoutes = () => {
   return (
@@ -18,10 +20,11 @@ const AllRoutes = () => {
         <Route path="/aeroProducts" element={<AeroProducts />} />
         <Route path="/description/:id" element={<Description />} />
         <Route path='/editProducts/:id' element={<EditProducts/>}/>
+        <Route path='/wishlist' element={<WishList/>}/>
         <Route path="/addProducts" element={<AddProducts />} />
         <Route path="/cartPage" element={<CartPage />} />
         <Route path="/login" element={<Login />} />
-        <Route path='/sellerProducts' element={<SellerProducts/>}/>
+        <Route path='/sellerProducts' element={<SellerProducts/> }/>
     </Routes>
   )
 }

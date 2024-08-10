@@ -25,7 +25,7 @@ const EditProducts = () => {
     const [singleFormData, setSingleFormData] = useState(initialFormData);
 
     const EditFormData = (id) => {
-        axios.get(`http://localhost:3000/products/${id}`)
+        axios.get(`http://localhost:5000/sellerProducts/${id}`)
             .then(res => setSingleFormData(res.data))
             .catch(err => console.log(err));
     };
@@ -46,7 +46,7 @@ const EditProducts = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.put(`http://localhost:3000/products/${id}`, singleFormData)
+        axios.put(`http://localhost:5000/sellerProducts/${id}`, singleFormData)
             .then(res => setSingleFormData(res.data))
             .catch(err => console.log(err));
     };
@@ -99,28 +99,28 @@ const EditProducts = () => {
                             onChange={(e) => handleChange(e, index)}
                         /><br />
                         <input
-                            type="text"
+                            type="url"
                             name="image"
                             value={color.image}
                             placeholder={`Enter Image URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         /><br />
                         <input
-                            type="text"
+                            type="url"
                             name="image2"
                             value={color.image2}
                             placeholder={`Enter Image2 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         /><br />
                         <input
-                            type="text"
+                            type="url"
                             name="image3"
                             value={color.image3}
                             placeholder={`Enter Image3 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         /><br />
                         <input
-                            type="text"
+                            type="url"
                             name="image4"
                             value={color.image4}
                             placeholder={`Enter Image4 URL ${index + 1}`}
@@ -132,7 +132,8 @@ const EditProducts = () => {
                     name="category"
                     value={category}
                     onChange={e =>handleChange(e)}
-                    className='m-auto w-100'
+                    className='m-auto'
+                    style={{width:"90%"}}
                 >
                     <option value="">Select Category</option>
                     <option value="Men">Men</option>

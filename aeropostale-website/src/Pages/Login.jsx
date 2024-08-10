@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { auth, provider } from '../Services/firebase';
-import { createUserWithEmailAndPassword, signInWithEmailAndPassword, signInWithPopup, signOut } from 'firebase/auth';
+import { createUserWithEmailAndPassword, deleteUser, signInWithEmailAndPassword, signInWithPopup, signOut } from 'firebase/auth';
 import GoogleButton from 'react-google-button';
 import { BiLogOut } from 'react-icons/bi';
 import { RiLoginCircleFill } from 'react-icons/ri';
@@ -72,16 +72,17 @@ const Login = () => {
   };
 
   const signOutUser = async () => {
-    setLoading(true);
-    try {
-      await signOut(auth);
-      alert("Logged Out Successfully");
-      setLoading(false); // Make sure to set loading to false after successful logout
-    } catch (err) {
-      console.error(err);
-      alert(err.message);
-      setLoading(false); // Ensure loading state is reset even on error
-    }
+    const user = auth.currentUser;
+      if (user) {
+        deleteUser(user).then(() => {
+          alert("User account deleted");
+        }).catch((error) => {
+          console.log("Error during account deletion:", error);
+          alert("Failed to delete user account");
+        });
+      } else {
+        alert("No user is currently signed in");
+      }
   };
 
   return (

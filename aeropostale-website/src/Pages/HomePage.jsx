@@ -1,5 +1,4 @@
 import React, { useContext, useEffect, useState } from "react";
-import Footer from "../Components/Footer";
 import axios from "axios";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
@@ -68,8 +67,7 @@ const HomePage = () => {
             <h5>$12 & UP *</h5>
           </div>
           <div className="UpdatePromoLinks">
-            <a href="/productsPage">Women</a>
-            <a href="">Men</a>
+            <h4>Women Men</h4>
           </div>
         </div>
         <div className="UpdatePromoLiveBox">
@@ -78,50 +76,37 @@ const HomePage = () => {
             <h5>NEW ARRIVALS</h5>
           </div>
           <div className="UpdatePromoLinks">
-            <a href="">Women</a>
-            <a href="">Men</a>
+          <h4>Women Men</h4>
           </div>
         </div>
         <div className="UpdatePromoLiveBox">
           <div>
-            <h5>NEW TO CLEARANCE</h5>
-            <h5>$5.99 & UP *</h5>
+          <h4>Women Men</h4>
           </div>
           <div className="UpdatePromoLinks">
-            <a href="">Women</a>
-            <a href="">Men</a>
+            <h4>Women Men</h4>
           </div>
         </div>
       </div>
 
       {/* Yellow Banner */}
       <div className="yellowBanner w-100">
-        <div className="row d-flex justify-content-around w-100">
-          <div className="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
+       <div className="container">
+       <div className="row d-flex justify-content-around w-100 align-items-center">
+          <div className="col-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9">
             <img
               src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw956e2e28/images/2024/Home/071024/A_SPOT_BTS%20DEALS_DT.png"
               alt=""
-              className="img-fluid w-75"
+              className="img-fluid"
             />{" "}
           </div>
-          <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-            <div className="AeroBtsDeals">
-              {" "}
-              <a href="">Women</a>
-              <a href="">Men</a>
+          <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+            <div className="AeroBtsDeals m-auto ">
+                <h4>Women Men</h4>
             </div>
           </div>
         </div>
-      </div>
-
-      {/* Jeans Shipping */}
-
-      <div className="JeansShipping">
-        <img
-          src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw0b50d559/images/2024/Home/073124/B-POT%20JEANS%20BOGO.%20DT-min.png"
-          alt=""
-          className="jeansShippingText"
-        />
+       </div>
       </div>
 
       {/*  Products Carousel */}
@@ -132,6 +117,15 @@ const HomePage = () => {
         >
           {prod}
         </Carousel>
+      </div>
+
+      {/* Jeans Shipping */}
+      <div className="JeansShipping">
+        <img
+          src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw0b50d559/images/2024/Home/073124/B-POT%20JEANS%20BOGO.%20DT-min.png"
+          alt=""
+          className="jeansShippingText"
+        />
       </div>
 
       {/* HelloKitty */}
@@ -172,7 +166,6 @@ const HomePage = () => {
         />
       </div>
 
-      <Footer />
     </div>
   );
 };

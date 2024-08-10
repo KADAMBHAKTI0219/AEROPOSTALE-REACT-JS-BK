@@ -41,8 +41,18 @@ const AddProducts = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.post('http://localhost:3000/products', singleFormData)
-            .then(res => setSingleFormData(res.data))
+        axios.post('http://localhost:5000/products', singleFormData)
+            .then(res => {
+                setSingleFormData(res.data)
+                setSingleFormData(initialFormData)
+            })
+            .catch(err => console.log(err));
+
+            axios.post('http://localhost:5000/sellerProducts', singleFormData)
+            .then(res =>{
+                setSingleFormData(res.data)
+                setSingleFormData(initialFormData)
+            })
             .catch(err => console.log(err));
     };
 
@@ -66,8 +76,8 @@ const AddProducts = () => {
 
     return (
         <div>
-            <h2 className='text-center'><FaEdit />Add Products</h2>
-            <form onSubmit={handleSubmit} className='EditForm'>
+            <h2 className="text-center"><FaEdit />Add Products</h2>
+            <form onSubmit={handleSubmit} className="EditForm">
                 <input
                     type="text"
                     name="title"
@@ -96,10 +106,11 @@ const AddProducts = () => {
                     placeholder="Enter Details"
                     onChange={handleChange}
                 />
-                  <select
+                <select
                     name="category"
                     value={category}
                     onChange={handleChange}
+                    style={{width:"90%"}}
                 >
                     <option value="">Select Category</option>
                     <option value="Men">Men</option>
@@ -116,38 +127,37 @@ const AddProducts = () => {
                             onChange={(e) => handleChange(e, index)}
                         />
                         <input
-                            type="text"
+                            type="url"
                             name="image"
                             value={color.image}
                             placeholder={`Enter Image URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
                         <input
-                            type="text"
+                            type="url"
                             name="image2"
                             value={color.image2}
                             placeholder={`Enter Image2 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
                         <input
-                            type="text"
+                            type="url"
                             name="image3"
                             value={color.image3}
                             placeholder={`Enter Image3 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
                         <input
-                            type="text"
+                            type="url"
                             name="image4"
                             value={color.image4}
                             placeholder={`Enter Image4 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
-                         <button type="button" onClick={addColorFields}className='edit p-2 w-50 d-block m-auto'>Add More Images</button><br />
+                        <button type="button" onClick={addColorFields} className="edit p-2 w-50 d-block m-auto">Add More Images</button><br />
                     </div>
                 ))}
-               
-                <input type="submit" className='SubmitBtn'/>
+                <input type="submit" className="SubmitBtn" />
             </form>
         </div>
     );

@@ -5,6 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import AllRoutes from './Components/AllRoutes';
 import Navigation from './Components/Navigation';
 import { useEffect, useState } from 'react';
+import Footer from './Components/Footer';
+import WishList from './Components/WishList';
 
 
 
@@ -20,7 +22,7 @@ function App() {
 
   return  load ?(
     <section>
-    <div class="loading loading05">
+    <div className="loading loading05">
       <span>A</span>
       <span>E</span>
       <span>R</span>
@@ -39,6 +41,7 @@ function App() {
     <>
      <Navigation/>
      <AllRoutes/> 
+     <Footer/>
     </>
   )
 }
