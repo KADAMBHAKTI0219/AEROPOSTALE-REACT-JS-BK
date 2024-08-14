@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { CartContext } from '../Context/CartContext'; 
 import { Container, Table } from 'react-bootstrap';
 import { RiDeleteBinLine } from 'react-icons/ri';
+import { Link } from 'react-router-dom';
 
 const CartPage = () => {
   const { cart, removeItemFromCart, updateItemQuantity, getTotalPrice } = useContext(CartContext);
@@ -69,6 +70,7 @@ const CartPage = () => {
             </div>
           ))}
           <h2 className='text-center'>Total: ${getTotalPrice() || 0}</h2> 
+          <button><Link to={'/paymentPage'}>PayMent</Link></button>
         </>
        
       )}

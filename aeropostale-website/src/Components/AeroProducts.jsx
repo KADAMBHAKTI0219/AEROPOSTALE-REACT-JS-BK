@@ -10,52 +10,66 @@ import { BiCart } from "react-icons/bi";
 
 const AeroProducts = () => {
   const [productData, setProductData] = useState([]);
+  const [loading,setLoading] = useState(false)
   const [category, setCategory] = useState(null);
   const [order, setOrder] = useState(null);
   const [page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
-
+  const [priceRange, setPriceRange] = useState(null);
   const { AddWishListProduct } = useContext(WishListContext);
   const { addItemToCart } = useContext(CartContext);
-  const { search } = useContext(SearchContext) || { search: "" };
+  const { search } = useContext(SearchContext) 
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const [productRes, sellerProductRes] = await Promise.all([
-          axios.get("http://localhost:5000/products", {
-            params: {
-              category: category,
-              _sort: "price",
-              _order: order,
-              q: search,
-            },
-          }),
-          axios.get("http://localhost:5000/sellerProducts"),
-        ]);
+  const getProductsData = () => {
+    setLoading(true)
+    axios.get("https://bk-aeropostale-json-server-1.onrender.com/products", {
+      params: {
+        category: category,
+        _sort: order === "asc" || order === "desc" ? "price" : "title",
+        _order: order,
+        q: search,
+      },
+    })
+      .then((productsDataResponse) => {
+        let data = productsDataResponse.data;
+        // Filtering price
+        if (priceRange) {
+          const [minPrice, maxPrice] = priceRange.split("-");
+          data = data.filter(
+            (item) => item.price >= minPrice && item.price <= maxPrice
+          );
+        }
 
-        const combinedData = [...productRes.data, ...sellerProductRes.data];
-        
-        // Total combined data count
-        const totalItems = combinedData.length;
+        // Sorting alphabetically
+        if (order === "atoz") {
+          data.sort((a, b) => a.title.localeCompare(b.title));
+        } else if (order === "ztoa") {
+          data.sort((a, b) => b.title.localeCompare(a.title));
+        }
 
-        // Calculate total pages based on combined data
+        // Total data count
+        const totalItems = data.length;
+
+        // Calculate total pages based on data
         setTotalPages(Math.ceil(totalItems / 8));
 
-        // Slice the combined data to get the items for the current page
+        // Slice the data to get the items for the current page
         const startIndex = (page - 1) * 8;
-        const paginatedData = combinedData.slice(startIndex, startIndex + 8);
-        
+        const paginatedData = data.slice(startIndex, startIndex + 8);
         setProductData(paginatedData);
-      } catch (error) {
-        console.error(error);
-      }
-    };
+        setLoading(false)
+      })
+      .catch((error) => {
+        console.error("Error fetching product data:", error);
+      })
+  };
 
-    fetchData();
-  }, [page, category, order, search]);
+  useEffect(() => {
+    getProductsData();
+   
+  }, [page, category, order, priceRange, search]);
 
-  return (
+  return loading ? <h1 className="text-center display-1">Loading</h1> :(
     <div>
       <div className="d-flex justify-content-between flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row w-75 m-auto align-items-center topHeader">
         <div className="ShowCategory">
@@ -69,6 +83,7 @@ const AeroProducts = () => {
             <option value="UNISEX">Unisex</option>
           </select>
         </div>
+
         <div className="SortBy">
           <select
             onChange={(e) => setOrder(e.target.value)}
@@ -77,11 +92,25 @@ const AeroProducts = () => {
             <option value="">Sort By</option>
             <option value="asc">Price Low To High</option>
             <option value="desc">Price High To Low</option>
+            <option value="atoz">A to Z</option>
+            <option value="ztoa">Z to A</option>
           </select>
         </div>
+
+        <div className="PriceFilter">
+          <select
+            onChange={(e) => setPriceRange(e.target.value)}
+            className="border-rounded rounded-3 mb-2"
+          >
+            <option value="">Price Range</option>
+            <option value="10-50">$10 to $50</option>
+            <option value="51-100">$51 to $100</option>
+          </select>
+        </div>
+
       </div>
       <div className="productsContentMain">
-        {productData.map((item) => (
+      {productData.map((item) => (
           <div key={item.id} className="productsContent text-center">
             <div className="productsImagesEach">
               <Link to={`/description/${item.id}`}>
@@ -128,7 +157,7 @@ const AeroProducts = () => {
         </button>
       </div>
     </div>
-  );
+  )
 };
 
 export default AeroProducts;

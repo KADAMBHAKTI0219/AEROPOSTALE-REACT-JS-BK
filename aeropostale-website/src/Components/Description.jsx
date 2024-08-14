@@ -3,13 +3,13 @@ import React, { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import Card from './Card'
 const Description = () => {
-  const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState([])
   const {id} = useParams()
   
   
 
   useEffect(() => {
-    axios.get(`http://localhost:5000/products/${id}`)
+    axios.get(`https://bk-aeropostale-json-server-1.onrender.com/products/${id}`)
       .then(response => {
         setProducts(response.data);
         console.log(response.data)
@@ -19,13 +19,13 @@ const Description = () => {
       });
   }, []);
   const productArray = Array.isArray(products) ? products : [];
-  console.log('Products:', products);
-  console.log(productArray)
   return (
     <div className="product-list">
-        <div key={products.id}>
-        <Card key={products.id} products={products} />
-        </div>
+       {
+        products && ( <div key={products.id}>
+          <Card key={products.id} products={products} />
+          </div>)
+       }
 
       
     </div>

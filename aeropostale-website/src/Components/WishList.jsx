@@ -9,7 +9,7 @@ const WishList = () => {
 
   // Fetch all product data
   const getData = () => {
-    axios.get('http://localhost:5000/products')
+    axios.get('https://bk-aeropostale-json-server-1.onrender.com/products')
       .then((res) => setProducts(res.data))
       .catch(err => console.log(err));
   }

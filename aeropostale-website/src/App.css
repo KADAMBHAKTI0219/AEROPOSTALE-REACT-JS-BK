@@ -193,27 +193,46 @@ transform: scale(0.9);
 .jeansShippingText {
     width: 30%;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 35%;
+    left: 35%;
+    animation: jeansAnimation 1.7s infinite;
+}
+@keyframes jeansAnimation{
+  0% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1.1);
+  }
 }
 
 .helloKittyText {
     width: 70%;
     position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 15%;
+    
+    animation: helloKitty 1.7s infinite;
+}
+@keyframes helloKitty{
+  0%{
+    transform: rotate(-5deg);
+    transition: all 0.8s;
+  }
+  100%{
+    transform: rotate(5deg);
+    transition: all 0.8s;
+  }
 }
 
 .aeroforalltext {
     width: 40%;
     position: absolute;
-    top: 50%;
-    left: 60%;
-    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 40%;
     color: white;
     text-align: center;
+    animation: jeansAnimation 1.7s infinite;
 }
 
 .aeroforimg {
@@ -221,8 +240,20 @@ transform: scale(0.9);
 }
 
 .BlueImages {
+  width: 100%;
     background-image: url('https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwfd8319c9/images/2024/Home/071024/D_SPOT_SHORTS_BG_DT-min.png');
-}
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    h1,h3{
+      color: #F7D30A;
+      font-weight: 900;
+      text-shadow: 4px 3px 2px black;
+    }
+    h3{
+      font-weight: 500;
+    }
+  }
 
 footer {
     background-color: #f9f9f9;
@@ -506,44 +537,58 @@ footer a:hover {
     border: 1px solid #17274A;
   }
   .EditDeleteBtn button {
-    width: 120px;
+    width: 90%;
     padding:5px 10px;
     font-size: 20px;
     font-weight: 700;
     cursor: pointer;
     border: none;
+    background: rgb(255,152,152);
+    background: linear-gradient(90deg, rgba(255,152,152,0.96) 0%, rgba(251,0,26,0.4) 26%, rgba(36,113,252,0.8) 100%);
+    backdrop-filter: blur(5px);
+  
 }
-
-.button-box-special {
-    background: #383b3a;
-}
-
 button:focus {
     outline: none;
 }
   
 .edit,.delete {
-    background: #17274A;
-    color: white;
+  width: 45%;    
+  color: white;
     border-radius: 5px;
     transition: all 300ms;
+    background: transparent;
+    background:linear-gradient(90deg, rgba(255,152,152,0.96) 0%, rgba(251,0,26,0.4) 26%, rgba(36,113,252,0.8) 100%);
     .btnLink{
         color: white;
     }
+   
 }
-.delete{
-    background: red;
+.editBtn{
+  border-radius: 5px;
+  font-size: 22px;
+  background-color: #17274A;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  transition: all 0.6s;
+  .btnLink{
+  color: white;
+  }
 }
 
-.edit:hover,.delete:hover{
+
+.edit:hover,.delete:hover,.editBtn:hover{
     transform: scale(1.1);
     letter-spacing: 2px;
     background: white;
-    color: #17274A;
     box-shadow: 2px 2px 3px rgba(0,0,0,0.57);
-    .btnLink{
-        color: #17274A;
-    }
+}
+.edit:hover .btnLink, .editBtn:hover .btnLink{
+  color: #17274A;
+}
+.edit:hover {
+  color: #17274A;
 }
 .delete:hover{
     color: red;
@@ -642,6 +687,18 @@ button:focus {
       display: grid;
       grid-template-columns: repeat(1,1fr);
     }
+    .aeroforalltext,.jeansShippingText{
+      width: 80%;
+      position: absolute;
+      top: 40%;
+      left: 10%;
+    }
+    .helloKittyText{
+      width: 98%;
+      position: absolute;
+      top: 70%;
+      left: 0;
+    }
 }
 @media (min-width: 767px) and (max-width:992px) {
     .UpdatesPromo {
@@ -683,6 +740,24 @@ button:focus {
       display: grid;
         grid-template-columns: repeat(1,1fr);
     }
+    .aeroforalltext{
+      width: 40%;
+      position: absolute;
+      top: 40%;
+      left: 45%;
+    }
+    .jeansShippingText{
+      width: 40%;
+      position: absolute;
+      top: 30%;
+      left: 30%;
+    }
+    .helloKittyText{
+      width: 80%;
+      position: absolute;
+      top: 70%;
+      left: 13%;
+    }
 }
   
 
@@ -712,6 +787,24 @@ button:focus {
       display: grid;
         grid-template-columns: repeat(2,1fr);
     }
+    .aeroforalltext{
+      width: 30%;
+      position: absolute;
+      top: 30%;
+      left: 45%;
+    }
+    .jeansShippingText{
+      width: 35%;
+      position: absolute;
+      top: 30%;
+      left: 33%;
+    }
+    .helloKittyText{
+      width: 80%;
+      position: absolute;
+      top: 70%;
+      left: 13%;
+    }
   }
 
   @media only screen and (min-width: 1400px) and (max-width:1920px){
@@ -729,5 +822,23 @@ button:focus {
   .WishlistMain{
     display: grid;
       grid-template-columns: repeat(2,1fr);
+  }
+  .aeroforalltext{
+    width: 30%;
+    position: absolute;
+    top: 30%;
+    left: 45%;
+  }
+  .jeansShippingText{
+    width:30%;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+  }
+  .helloKittyText{
+    width: 60%;
+    position: absolute;
+    top: 70%;
+    left: 20%;
   }
   }

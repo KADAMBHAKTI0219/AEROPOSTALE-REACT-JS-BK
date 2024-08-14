@@ -41,14 +41,14 @@ const AddProducts = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.post('http://localhost:5000/products', singleFormData)
+        axios.post('https://bk-aeropostale-json-server-1.onrender.com/products', singleFormData)
             .then(res => {
                 setSingleFormData(res.data)
                 setSingleFormData(initialFormData)
             })
             .catch(err => console.log(err));
 
-            axios.post('http://localhost:5000/sellerProducts', singleFormData)
+            axios.post('https://bk-aeropostale-json-server-1.onrender.com/sellerProducts', singleFormData)
             .then(res =>{
                 setSingleFormData(res.data)
                 setSingleFormData(initialFormData)
@@ -70,6 +70,12 @@ const AddProducts = () => {
                 }
             ]
         }));
+    };
+    const deleteColorFields = () => {
+        setSingleFormData(prevState => {
+            const updatedColors = prevState.colors.slice(0, -1);
+            return { ...prevState, colors: updatedColors };
+        });
     };
 
     const { title, price, description, details, colors, category } = singleFormData;
@@ -123,7 +129,7 @@ const AddProducts = () => {
                             type="text"
                             name="color"
                             value={color.color}
-                            placeholder={`Enter Color ${index + 1}`}
+                            placeholder={`Enter Color in Hex ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
                         <input
@@ -154,9 +160,10 @@ const AddProducts = () => {
                             placeholder={`Enter Image4 URL ${index + 1}`}
                             onChange={(e) => handleChange(e, index)}
                         />
-                        <button type="button" onClick={addColorFields} className="edit p-2 w-50 d-block m-auto">Add More Images</button><br />
                     </div>
                 ))}
+                <div className='w-100 d-flex justify-content-evenly align-items-center'> <button type="button" onClick={addColorFields} className="edit p-2 fw-bold">Add More Images</button>
+                <button type='button' onClick={deleteColorFields} className="delete p-2 fw-bold">Delete Fields</button></div>
                 <input type="submit" className="SubmitBtn" />
             </form>
         </div>

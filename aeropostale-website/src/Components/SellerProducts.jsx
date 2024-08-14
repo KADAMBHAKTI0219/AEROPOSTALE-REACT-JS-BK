@@ -6,6 +6,7 @@ import { FaArrowLeftLong, FaArrowRightLong } from "react-icons/fa6";
 
 const SellerProducts = () => {
   const [productData, setProductData] = useState([]);
+  const [loading,setLoading]=useState(false)
   const [category, setCategory] = useState(null);
   const [order, setOrder] = useState(null);
   const [page,setPage] =useState(1)
@@ -13,8 +14,9 @@ const SellerProducts = () => {
   const { search } = useContext(SearchContext) || { search: "" };
 
   const getProductsData = () => {
+    setLoading(true)
     axios
-      .get("http://localhost:5000/sellerProducts", {
+      .get("https://bk-aeropostale-json-server-1.onrender.com/sellerProducts", {
         params: {
           _page:page,
           _limit:8,
@@ -28,12 +30,13 @@ const SellerProducts = () => {
         setProductData(res.data)
       const totalItems = parseInt(res.headers["x-total-count"], 10);
       setTotalPages(Math.ceil(totalItems / 10));
+      setLoading(false)
       })
       .catch((err) => console.log(err));
   };
 
   const DeleteProductsBtn = (id)=>{
-    axios.delete(`http://localhost:5000/sellerProducts/${id}`)
+    axios.delete(`https://bk-aeropostale-json-server-1.onrender.com/sellerProducts/${id}`)
     .then((res)=>{
       getProductsData()
       }).catch(err=>console.log(err))
@@ -42,7 +45,7 @@ const SellerProducts = () => {
   useEffect(() => {
     getProductsData();
   }, [page,category, order, search]);
-  return (
+  return loading ? <h1>Loading</h1>:(
     <div>
       <div className="d-flex justify-content-between flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row w-75 m-auto align-items-center topHeader">
         <div className="ShowCategory">
@@ -59,7 +62,7 @@ const SellerProducts = () => {
           </select>
         </div>
         <div>
-          <button className="edit p-2 mb-2"><Link to={'/addProducts'} className="btnLink text-decoration-none ">Add Products</Link></button>
+          <button className="editBtn p-2 mb-2"><Link to={'/addProducts'} className="btnLink text-decoration-none ">Add Products</Link></button>
         </div>
         <div className="SortBy">
           <select
@@ -86,13 +89,9 @@ const SellerProducts = () => {
             </Link>
             <h5>{item.title}</h5>
             <h5> ${item.price}</h5>
-            <div className="EditDeleteBtn d-flex justify-content-between align-items-center ">
-            <div className="button-box">
+            <div className="EditDeleteBtn d-flex justify-content-between align-items-center">
                 <button className="edit "><Link to={`/editProducts/${item.id}`} className="btnLink text-decoration-none">Edit</Link></button>
-            </div>
-            <div className="button-box">
                 <button className="delete" onClick={()=>DeleteProductsBtn(item.id)}>Delete</button>
-            </div>
             </div>
           </div>
         ))}

@@ -30,7 +30,7 @@ const HomePage = () => {
 
   const getproductdata = () => {
     axios
-      .get("http://localhost:3000/products", {
+      .get("https://bk-aeropostale-json-server-1.onrender.com/products", {
         params: {
           q: search,
         },
@@ -157,7 +157,11 @@ const HomePage = () => {
       </div>
 
       {/* Blue Images */}
-      <div className="BlueImages">
+      <div className="BlueImages  d-flex justify-content-around">
+        <div>
+          <h1>A SHORT STORY</h1>
+          <h3>Never Short On Style(s).</h3>
+        </div>
         <img
           src="https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw25fa6242/images/2024/Home/072424/Shorts%20Badge-min.png"
           alt=""

@@ -25,7 +25,7 @@ const EditProducts = () => {
     const [singleFormData, setSingleFormData] = useState(initialFormData);
 
     const EditFormData = (id) => {
-        axios.get(`http://localhost:5000/sellerProducts/${id}`)
+        axios.get(`https://bk-aeropostale-json-server-1.onrender.com/sellerProducts/${id}`)
             .then(res => setSingleFormData(res.data))
             .catch(err => console.log(err));
     };
@@ -46,7 +46,7 @@ const EditProducts = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.put(`http://localhost:5000/sellerProducts/${id}`, singleFormData)
+        axios.put(`https://bk-aeropostale-json-server-1.onrender.com/sellerProducts/${id}`, singleFormData)
             .then(res => setSingleFormData(res.data))
             .catch(err => console.log(err));
     };

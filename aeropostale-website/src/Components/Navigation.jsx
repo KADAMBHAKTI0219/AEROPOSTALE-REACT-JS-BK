@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import { NavLink } from 'react-router-dom'
+import { Navigate, NavLink, useNavigate } from 'react-router-dom'
 import { BiHeart, BiLocationPlus, BiMenu, BiSearch, BiUser } from 'react-icons/bi'
 import { Button, Offcanvas } from 'react-bootstrap'
 import { CartContext } from '../Context/CartContext'
@@ -12,9 +12,17 @@ const Navigation = () => {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  
   const {count} = useContext(CartContext)
   const { search ,setSearch} = useContext(SearchContext)
+  const navigate = useNavigate();
+
+  const HandleSearchChange = (e)=>{
+    setSearch(e.target.value);
+    if(e.target.value.trim()){
+   navigate('/aeroProducts')
+    }
+  }
+
   const NavLinkStyle ={
     textDecoration: 'none',
     color: '#2e3133',
@@ -52,7 +60,7 @@ const Navigation = () => {
       </div>
 
       <div className='NavIcons'>
-      <span><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>setSearch(e.target.value)} /><BiSearch className='SearchIcon'/> </span>
+      <span><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>HandleSearchChange(e)} /><BiSearch className='SearchIcon'/> </span>
         <NavLink style={{...NavLinkStyle,fontSize:"1.8rem"}} to={'/wishList'}> <BiHeart/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.8rem"}}> <BiLocationPlus/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.8rem"}} to={"/login"}> <BiUser/> </NavLink>
@@ -71,7 +79,7 @@ const Navigation = () => {
         <BiMenu/>
         </Button>
     </div>
-    <span className='d-block d-sm-block d-md-block d-lg-none d-xl-none d-xxl-none'><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>setSearch(e.target.value)} /><BiSearch className='SearchIcon'/> </span>
+    <span className='d-block d-sm-block d-md-block d-lg-block d-xl-none d-xxl-none'><input type="text" placeholder='Search' className='SearchInput' value={search} onChange={(e)=>setSearch(e.target.value)} /><BiSearch className='SearchIcon'/> </span>
     
 
     <hr />
@@ -90,12 +98,11 @@ const Navigation = () => {
         <NavLink style={{...OffcanvasNavLinkStyle}}  >Clearance</NavLink>
         </div>
         <div className='NavIcons d-block text-center w-100 mt-4'>
-        <NavLink style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiHeart/> </NavLink>
+        <NavLink style={{...NavLinkStyle,fontSize:"1.5rem"}}to={"/wishList"}> <BiHeart/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}}> <BiLocationPlus/> </NavLink>
         <NavLink  style={{...NavLinkStyle,fontSize:"1.5rem"}} to={"/login"}> <BiUser/> </NavLink>
         <NavLink style={{...NavLinkStyle,fontSize:"1.8rem",position:"relative"}} to={"/cartPage"}> <IoBagOutline />
         <span className='counter position-relative' style={{right:"5%",fontSize:"16px"}} >{count}</span> </NavLink>
-        <input type="" />
         </div>
         </Offcanvas.Body>
     </Offcanvas>
