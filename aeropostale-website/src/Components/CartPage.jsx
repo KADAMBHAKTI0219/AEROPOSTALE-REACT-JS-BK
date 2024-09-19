@@ -70,7 +70,6 @@ const CartPage = () => {
             </div>
           ))}
           <h2 className='text-center'>Total: ${getTotalPrice() || 0}</h2> 
-          <button><Link to={'/paymentPage'}>PayMent</Link></button>
         </>
        
       )}
