@@ -45,7 +45,7 @@ const SellerProducts = () => {
   useEffect(() => {
     getProductsData();
   }, [page,category, order, search]);
-  return loading ? <h1>Loading</h1>:(
+  return loading ? <div className="loader-spin"><span></span><span></span><span></span><span></span></div> :(
     <div>
       <div className="d-flex justify-content-between flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row w-75 m-auto align-items-center topHeader">
         <div className="ShowCategory">

@@ -11,7 +11,7 @@ const PrivateAuthentication = ({ children }) => {
   console.log('Error:', error);
 
   if (loading) {
-    return <div>Loading...</div>; // Customize with a loader component
+    return <div className="loader-spin"><span></span><span></span><span></span><span></span></div>; // Customize with a loader component
   }
 
   if (error) {

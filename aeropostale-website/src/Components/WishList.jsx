@@ -5,12 +5,14 @@ import { Link } from 'react-router-dom';
 
 const WishList = () => {
   const { wishList, RemoveWishListProducts } = useContext(WishListContext);
+  const [loading,setLoading] = useState(false)
   const [products, setProducts] = useState([]);
 
   // Fetch all product data
   const getData = () => {
+    setLoading(true)
     axios.get('https://bk-aeropostale-json-server-1.onrender.com/products')
-      .then((res) => setProducts(res.data))
+      .then((res) => setProducts(res.data),setLoading(false))
       .catch(err => console.log(err));
   }
 
@@ -23,7 +25,7 @@ const WishList = () => {
     products.find(product => product.id === wishItem.id)
   );
 
-  return (
+  return loading ?  <div className="loader-spin"><span></span><span></span><span></span><span></span></div>:(
     <div>
       <h1 className='text-center'>Wishlist</h1>
      <div className="container WishlistMain">

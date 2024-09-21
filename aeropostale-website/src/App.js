@@ -2,11 +2,11 @@
 import './App.css';
 import './FontFamily.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AllRoutes from './Components/AllRoutes';
-import Navigation from './Components/Navigation';
+
 import { useEffect, useState } from 'react';
 import Footer from './Components/Footer';
-import WishList from './Components/WishList';
+import Navigation from './Components/Navigation';
+import AllRoutes from './Components/AllRoutes';
 
 
 

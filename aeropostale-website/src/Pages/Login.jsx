@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { auth, provider } from '../Services/firebase';
-import { createUserWithEmailAndPassword, deleteUser, signInWithEmailAndPassword, signInWithPopup, signOut } from 'firebase/auth';
+import { createUserWithEmailAndPassword, deleteUser, reauthenticateWithCredential, signInWithEmailAndPassword, signInWithPopup, signOut } from 'firebase/auth';
 import GoogleButton from 'react-google-button';
 import { BiLogOut } from 'react-icons/bi';
 import { RiLoginCircleFill } from 'react-icons/ri';
@@ -85,7 +85,7 @@ const Login = () => {
       }
   };
 
-  return (
+  return loading ?  <div className="loader-spin"><span></span><span></span><span></span><span></span></div>:(
     <div>
       <div className="toggleBtnDiv">
         <button onClick={() => setFormToggle(!formToggle)} className="toggleBtn">
